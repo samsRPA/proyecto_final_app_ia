@@ -4,7 +4,7 @@
 **Entrega:** Avance 2 — Flujo RAG completo, evaluación con Ragas y chat desplegado
 **Autores:** Samuel Alejandro Monsalve Sarmiento, Carlos Alberto Franco Hernandez
 
-**🔗 Aplicación desplegada:** `PENDIENTE — pegar aquí la URL pública de Streamlit`
+**🔗 Aplicación desplegada:** https://multaclara.streamlit.app/
 **📦 Repositorio:** https://github.com/samsRPA/proyecto_final_app_ia
 
 ## 1. La idea
