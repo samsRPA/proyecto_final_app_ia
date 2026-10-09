@@ -8,7 +8,7 @@ Uso:
 
 import sys
 
-from src.assistant import DISCLAIMER, AssistantError, MultaClaraAssistant
+from src.assistant import DISCLAIMER, AssistantError, MultaClaraAssistant, RespuestaRAG
 from src.config import AppConfig, ConfigError
 from src.schemas import Clasificacion, VeredictoMulta
 
@@ -59,6 +59,16 @@ def imprimir_veredicto(veredicto: VeredictoMulta) -> None:
     print(f"\n---\n{DISCLAIMER}")
 
 
+def imprimir_fuentes(respuesta: RespuestaRAG) -> None:
+    print("\nFuentes recuperadas:")
+    for f in respuesta.fuentes:
+        resumen = f.texto[:110].replace("\n", " ")
+        print(f"  - {f.cita} (similitud {f.score:.2f}): {resumen}...")
+    if respuesta.citas_no_respaldadas:
+        arts = ", ".join(respuesta.citas_no_respaldadas)
+        print(f"  [ADVERTENCIA] Articulos citados que no estaban en el contexto: {arts}")
+
+
 def modo_interactivo(asistente: MultaClaraAssistant) -> None:
     print("--- MultaClara: verificacion de comparendos de transito ---")
     print("Cuentame que paso cuando te detuvo el agente de transito.")
@@ -74,8 +84,9 @@ def modo_interactivo(asistente: MultaClaraAssistant) -> None:
             continue
 
         try:
-            veredicto = asistente.analizar_caso(entrada)
-            imprimir_veredicto(veredicto)
+            respuesta = asistente.consultar(entrada)
+            imprimir_veredicto(respuesta.veredicto)
+            imprimir_fuentes(respuesta)
         except AssistantError as error:
             print(f"\n[Error] {error}\n")
 
@@ -85,8 +96,9 @@ def modo_demo(asistente: MultaClaraAssistant) -> None:
         print(f"\n=== Caso demo {indice} ===")
         print(f"Tu: {relato}")
         try:
-            veredicto = asistente.analizar_caso(relato)
-            imprimir_veredicto(veredicto)
+            respuesta = asistente.consultar(relato)
+            imprimir_veredicto(respuesta.veredicto)
+            imprimir_fuentes(respuesta)
         except AssistantError as error:
             print(f"\n[Error] {error}\n")
 

@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+# Notas personales (no subir)
+notas_personales/
+
+# Secretos de Streamlit (nunca se suben)
+.streamlit/secrets.toml

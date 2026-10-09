@@ -1,0 +1,749 @@
+{
+  "1": {
+    "id": 1,
+    "tipo": "dentro_corpus",
+    "pregunta": "¿Es obligatorio el uso del cinturón de seguridad y quiénes deben usarlo?",
+    "ground_truth": "Sí. Es obligatorio el uso del cinturón de seguridad por parte del conductor y de los pasajeros ubicados en los asientos delanteros del vehículo en todas las vías del territorio nacional, incluidas las urbanas. A partir de los vehículos fabricados en 2004 también se exige en los asientos traseros, de acuerdo con la reglamentación del Ministerio de Transporte.",
+    "articulos_esperados": [
+      "82"
+    ],
+    "respuesta": "De acuerdo con el artículo 82 de la Ley 769 de 2002, es obligatorio el uso del cinturón de seguridad por parte del conductor y de los pasajeros ubicados en los asientos delanteros del vehículo en todas las vías del territorio nacional (Ley 769 de 2002, Art. 82). Asimismo, a partir de los vehículos fabricados en el año 2004, se exige su uso en los asientos traseros según la reglamentación (Ley 769 de 2002, Art. 82). No utilizar el cinturón por parte de los ocupantes constituye una infracción sancionada con multa (Ley 769 de 2002, Art. 131).",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 82] ARTÍCULO 82. CINTURÓN DE SEGURIDAD. Reglamentado por la Resolución del Min. Transporte 19200 de 2002 En el asiento delantero de los\nvehículos, solo podrán viajar, además del conductor, una (1) o dos (2) personas de acuerdo con las características de ellos.\nEs obligatorio el uso del cinturón de seguridad por parte del conductor y de los pasajeros ubicados en los asientos delanteros del vehículo en\ntodas las vías del territorio nacional, incluyendo las urbanas.\nLos menores de diez (10) años no podrán viajar en el asiento delantero del vehículo. Por razones de seguridad, los menores de dos (2) años solo\npodrán viajar en el asiento posterior haciendo uso de una silla que garantice su seguridad y que permita su fijación a él, siempre y cuando el\nmenor viaje únicamente en compañía del conductor.\nA partir de los vehículos fabricados en el año 2004, se exigirá el uso de cinturones de seguridad en los asientos traseros, de acuerdo con la\nreglamentación que sobre el particular expida el Ministerio de Transporte.\nPARÁGRAFO. Ningún vehículo podrá llevar un número de pasajeros superior a la capacidad señalada en la licencia de tránsito, con excepción de\nlos niños de brazos.",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: C. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes (SMLDV) el conductor y/o propietario de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nC.4 Estacionar un vehículo sin tomar las debidas precauciones o sin colocar a la distancia señalada por este código, las señales de peligro\nreglamentarias.\nC.5. No reducir la velocidad según lo indicado por este código, cuando transite por un cruce escolar en los horarios y días de funcionamiento de\nla institución educativa. Así mismo, cuando transite por cruces de hospitales o terminales de pasajeros.\nDepartamento Administrativo de la Función Pública\nLey 769 de 2002 41 EVA - Gestor Normativo\nC.6. No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo.\nC.7. Dejar de señalizar con las luces direccionales o mediante señales de mano y con la debida anticipación, la maniobra de giro o de cambio de\ncarril.\nC.8. Transitar sin los dispositivos luminosos requeridos o sin los elementos determinados en este código.\nC.9. No respetar las señales de detención en el cruce de una línea férrea, o conducir por la vía férrea o por las zonas de protección y seguridad\nde ella.\nC.10. Conducir un vehículo con una o varias puertas abiertas.\nC.11. No portar el equipo de prevención y seguridad establecido en este código o en la reglamentación correspondiente.",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: C. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes, el conductor de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nEstacionar un vehículo sin tomar las debidas precauciones o sin colocar a la distancia señalada por este código, las señales de peligro\nreglamentarias.\nNo reducir la velocidad según lo indicado por este código, cuando transite por un cruce escolar en los horarios y días de funcionamiento de la\ninstitución educativa. Así mismo, cuando transite por cruces de hospitales o terminales de pasajeros.\nNo utilizar el cinturón de seguridad por parte de los ocupantes del vehículo.\nDejar de señalizar con las luces direccionales o mediante señales de mano y con la debida anticipación, la maniobra de giro o de cambio de\ncarril.\nTransitar sin los dispositivos luminosos requeridos o sin los elementos determinados en este código.\nNo respetar las señales de detención en el cruce de una línea férrea, o conducir por la vía férrea o por las zonas de protección y seguridad de\nella.\nConducir un vehículo con una o varias puertas abiertas.\nNo portar el equipo de prevención y seguridad establecido en este código o en la reglamentación correspondiente.\nProveer de combustible un vehículo automotor con el motor encendido.",
+      "[Ley 769 de 2002, Art. 2] Cinturón de seguridad: Conjunto de tiras, provisto de hebilla de cierre, dispositivos de ajuste y de unión, cuyo fin es sujetar a los ocupantes al\nasiento del vehículo, para prevenir que se golpeen cuando suceda una aceleración, desaceleración súbita o volcamiento.\nClase de vehículo: Denominación dada a un automotor de conformidad con su destinación, configuración y especificaciones técnicas.\nColumna motorizada: Son todos los vehículos autopropulsados o tractados que hacen parte de un mismo grupo de desplazamiento militar, bajo\nel mando de un comandante que los dirige o coordina.\nCombinación de vehículos: Conjunto acoplado de dos (2) o más unidades vehiculares.\nComparendo: Orden formal de notificación para que el presunto contraventor o implicado se presente ante la autoridad de tránsito por la\ncomisión de una infracción.\nConductor: Es la persona habilitada y capacitada técnica y teóricamente para operar un vehículo.\nConjunto óptico: Grupo de luces de servicio, delimitadoras, direccionales, pilotos de freno y reverso.\nCroquis: Plano descriptivo de los pormenores de un accidente de tránsito donde resulten daños a personas, vehículos, inmuebles, muebles o",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: B. Será sancionado con multa equivalente a ocho (8) salarios mínimos legales diarios vigentes (smldv) el conductor y/o propietario de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nTransporte.\nB.21. Lavar vehículos en vía pública, en ríos, en canales y en quebradas.\nB.22. Llevar niños menores de diez (10) años en el asiento delantero.\nB.23. Utilizar radios, equipos de sonido o de amplificación a volúmenes que superen los decibeles máximos establecidos por las autoridades\nambientales. De igual forma utilizar pantallas, proyectores de imagen o similares en la parte delantera de los vehículos, mientras esté en\nmovimiento.\nC. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes (SMLDV) el conductor y/o propietario de un\nvehículo automotor que incurra en cualquiera de las siguientes infracciones:\nC.1. Presentar licencia de conducción adulterada o ajena, lo cual dará lugar a la inmovilización del vehículo.\nC.2. Estacionar un vehículo en sitios prohibidos.\nC.3. Bloquear una calzada o intersección con un vehículo, salvo cuando el bloqueo obedezca a la ocurrencia de un accidente de tránsito.\nC.4 Estacionar un vehículo sin tomar las debidas precauciones o sin colocar a la distancia señalada por este código, las señales de peligro\nreglamentarias."
+    ],
+    "articulos_recuperados": [
+      "131",
+      "2",
+      "82"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario pregunta si es obligatorio el uso del cinturón de seguridad y quiénes deben usarlo.",
+      "causal_reportada": "Consulta sobre el uso del cinturón de seguridad.",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "De acuerdo con el artículo 82 de la Ley 769 de 2002, es obligatorio el uso del cinturón de seguridad por parte del conductor y de los pasajeros ubicados en los asientos delanteros del vehículo en todas las vías del territorio nacional (Ley 769 de 2002, Art. 82). Asimismo, a partir de los vehículos fabricados en el año 2004, se exige su uso en los asientos traseros según la reglamentación (Ley 769 de 2002, Art. 82). No utilizar el cinturón por parte de los ocupantes constituye una infracción sancionada con multa (Ley 769 de 2002, Art. 131).",
+      "recomendaciones": [
+        "Asegúrate de que tanto el conductor como todos los pasajeros utilicen siempre el cinturón de seguridad antes de iniciar la marcha.",
+        "Verifica que los menores de edad cumplan con las restricciones de ubicación y uso de sistemas de retención infantil estipuladas en la norma."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "2": {
+    "id": 2,
+    "tipo": "dentro_corpus",
+    "pregunta": "¿Con cuánta multa se sanciona a quien no utiliza el cinturón de seguridad?",
+    "ground_truth": "No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo (infracción C.6) se sanciona con una multa equivalente a quince (15) salarios mínimos legales diarios vigentes (SMLDV).",
+    "articulos_esperados": [
+      "131"
+    ],
+    "respuesta": "Según la Ley 769 de 2002, Art. 131 (Ley 769 de 2002, Art. 131), no utilizar el cinturón de seguridad por parte de los ocupantes del vehículo es sancionado con una multa equivalente a quince (15) salarios mínimos legales diarios vigentes (SMLDV).",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: C. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes (SMLDV) el conductor y/o propietario de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nC.4 Estacionar un vehículo sin tomar las debidas precauciones o sin colocar a la distancia señalada por este código, las señales de peligro\nreglamentarias.\nC.5. No reducir la velocidad según lo indicado por este código, cuando transite por un cruce escolar en los horarios y días de funcionamiento de\nla institución educativa. Así mismo, cuando transite por cruces de hospitales o terminales de pasajeros.\nDepartamento Administrativo de la Función Pública\nLey 769 de 2002 41 EVA - Gestor Normativo\nC.6. No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo.\nC.7. Dejar de señalizar con las luces direccionales o mediante señales de mano y con la debida anticipación, la maniobra de giro o de cambio de\ncarril.\nC.8. Transitar sin los dispositivos luminosos requeridos o sin los elementos determinados en este código.\nC.9. No respetar las señales de detención en el cruce de una línea férrea, o conducir por la vía férrea o por las zonas de protección y seguridad\nde ella.\nC.10. Conducir un vehículo con una o varias puertas abiertas.\nC.11. No portar el equipo de prevención y seguridad establecido en este código o en la reglamentación correspondiente.",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: C. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes, el conductor de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nEstacionar un vehículo sin tomar las debidas precauciones o sin colocar a la distancia señalada por este código, las señales de peligro\nreglamentarias.\nNo reducir la velocidad según lo indicado por este código, cuando transite por un cruce escolar en los horarios y días de funcionamiento de la\ninstitución educativa. Así mismo, cuando transite por cruces de hospitales o terminales de pasajeros.\nNo utilizar el cinturón de seguridad por parte de los ocupantes del vehículo.\nDejar de señalizar con las luces direccionales o mediante señales de mano y con la debida anticipación, la maniobra de giro o de cambio de\ncarril.\nTransitar sin los dispositivos luminosos requeridos o sin los elementos determinados en este código.\nNo respetar las señales de detención en el cruce de una línea férrea, o conducir por la vía férrea o por las zonas de protección y seguridad de\nella.\nConducir un vehículo con una o varias puertas abiertas.\nNo portar el equipo de prevención y seguridad establecido en este código o en la reglamentación correspondiente.\nProveer de combustible un vehículo automotor con el motor encendido.",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: C. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes (SMLDV) el conductor y/o propietario de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nC.36. Transportar carga en contenedores sin los dispositivos especiales de sujeción. El vehículo será inmovilizado.\nC.37. Transportar pasajeros en el platón de una camioneta picó o en la plataforma de un vehículo de carga, trátese de furgón o plataforma de\nestacas.\nC.38. Usar sistemas móviles de comunicación o teléfonos instalados en los vehículos al momento de conducir, exceptuando si estos son\nutilizados con accesorios o equipos auxiliares que permitan tener las manos libres.\nC.39. Vulnerar las reglas de estacionamiento contenidas en el artículo 77 de este Código.\nD. Será sancionado con multa equivalente a treinta (30) salarios mínimos legales diarios vigentes (smldv) el conductor y/o propietario de un\nvehículo automotor que incurra en cualquiera de las siguientes infracciones:\nD.1. Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los\nhechos, hasta que este sea retirado por una persona autorizada por el infractor con licencia de conducción.\nD.2. Conducir sin portar los seguros ordenados por la ley. Además, el vehículo será inmovilizado.",
+      "[Ley 769 de 2002, Art. 82] ARTÍCULO 82. CINTURÓN DE SEGURIDAD. Reglamentado por la Resolución del Min. Transporte 19200 de 2002 En el asiento delantero de los\nvehículos, solo podrán viajar, además del conductor, una (1) o dos (2) personas de acuerdo con las características de ellos.\nEs obligatorio el uso del cinturón de seguridad por parte del conductor y de los pasajeros ubicados en los asientos delanteros del vehículo en\ntodas las vías del territorio nacional, incluyendo las urbanas.\nLos menores de diez (10) años no podrán viajar en el asiento delantero del vehículo. Por razones de seguridad, los menores de dos (2) años solo\npodrán viajar en el asiento posterior haciendo uso de una silla que garantice su seguridad y que permita su fijación a él, siempre y cuando el\nmenor viaje únicamente en compañía del conductor.\nA partir de los vehículos fabricados en el año 2004, se exigirá el uso de cinturones de seguridad en los asientos traseros, de acuerdo con la\nreglamentación que sobre el particular expida el Ministerio de Transporte.\nPARÁGRAFO. Ningún vehículo podrá llevar un número de pasajeros superior a la capacidad señalada en la licencia de tránsito, con excepción de\nlos niños de brazos.",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: C. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes (SMLDV) el conductor y/o propietario de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nde ella.\nC.10. Conducir un vehículo con una o varias puertas abiertas.\nC.11. No portar el equipo de prevención y seguridad establecido en este código o en la reglamentación correspondiente.\nC.12 Proveer de combustible un vehículo automotor con el motor encendido.\nC.12 A. No apagar el motor del vehículo para la inspección canina.(Numeral adicionado por el art 20 de la Ley 2454 de 2025)\nC.13 Conducir un vehículo automotor sin las adaptaciones pertinentes, cuando el conductor padece de limitación física.\nC.14 Transitar por sitios restringidos o en horas prohibidas por la autoridad competente. Además, el vehículo será inmovilizado.\nC.15 Conducir un vehículo, particular o de servicio público, excediendo la capacidad autorizada en la licencia de tránsito o tarjeta de operación.\nC.16 Conducir un vehículo escolar sin el permiso respectivo o los distintivos reglamentarios, además el vehículo será inmovilizado.\nC.17 Circular con combinaciones de vehículos de dos (2) o más unidades remolcadas, sin autorización especial de autoridad competente.\nC.18 Conducir un vehículo autorizado para prestar servicio público con el taxímetro dañado, con los sellos rotos o etiquetas adhesivas con"
+    ],
+    "articulos_recuperados": [
+      "131",
+      "82"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario consulta el valor o la sanción correspondiente por no utilizar el cinturón de seguridad.",
+      "causal_reportada": "No utilizar el cinturón de seguridad",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "Según la Ley 769 de 2002, Art. 131 (Ley 769 de 2002, Art. 131), no utilizar el cinturón de seguridad por parte de los ocupantes del vehículo es sancionado con una multa equivalente a quince (15) salarios mínimos legales diarios vigentes (SMLDV).",
+      "recomendaciones": [
+        "Verifica siempre el uso del cinturón de seguridad para conductor y pasajeros delanteros (y traseros según aplique por modelo del vehículo) en todas las vías del territorio nacional (Ley 769 de 2002, Art. 82)."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "3": {
+    "id": 3,
+    "tipo": "dentro_corpus",
+    "pregunta": "¿Pueden viajar niños en el asiento delantero de un carro?",
+    "ground_truth": "Los menores de diez (10) años no pueden viajar en el asiento delantero del vehículo. Además, por razones de seguridad, los menores de dos (2) años solo pueden viajar en el asiento posterior, en una silla que garantice su seguridad y permita su fijación, y siempre que el menor viaje únicamente en compañía del conductor.",
+    "articulos_esperados": [
+      "82"
+    ],
+    "respuesta": "De acuerdo con la base consultada, los menores de diez (10) años no podrán viajar en el asiento delantero del vehículo (Ley 769 de 2002, Art. 82).",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 82] ARTÍCULO 82. CINTURÓN DE SEGURIDAD. Reglamentado por la Resolución del Min. Transporte 19200 de 2002 En el asiento delantero de los\nvehículos, solo podrán viajar, además del conductor, una (1) o dos (2) personas de acuerdo con las características de ellos.\nEs obligatorio el uso del cinturón de seguridad por parte del conductor y de los pasajeros ubicados en los asientos delanteros del vehículo en\ntodas las vías del territorio nacional, incluyendo las urbanas.\nLos menores de diez (10) años no podrán viajar en el asiento delantero del vehículo. Por razones de seguridad, los menores de dos (2) años solo\npodrán viajar en el asiento posterior haciendo uso de una silla que garantice su seguridad y que permita su fijación a él, siempre y cuando el\nmenor viaje únicamente en compañía del conductor.\nA partir de los vehículos fabricados en el año 2004, se exigirá el uso de cinturones de seguridad en los asientos traseros, de acuerdo con la\nreglamentación que sobre el particular expida el Ministerio de Transporte.\nPARÁGRAFO. Ningún vehículo podrá llevar un número de pasajeros superior a la capacidad señalada en la licencia de tránsito, con excepción de\nlos niños de brazos.",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: B. Será sancionado con multa equivalente a ocho (8) salarios mínimos legales diarios vigentes (smldv) el conductor y/o propietario de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nTransporte.\nB.21. Lavar vehículos en vía pública, en ríos, en canales y en quebradas.\nB.22. Llevar niños menores de diez (10) años en el asiento delantero.\nB.23. Utilizar radios, equipos de sonido o de amplificación a volúmenes que superen los decibeles máximos establecidos por las autoridades\nambientales. De igual forma utilizar pantallas, proyectores de imagen o similares en la parte delantera de los vehículos, mientras esté en\nmovimiento.\nC. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes (SMLDV) el conductor y/o propietario de un\nvehículo automotor que incurra en cualquiera de las siguientes infracciones:\nC.1. Presentar licencia de conducción adulterada o ajena, lo cual dará lugar a la inmovilización del vehículo.\nC.2. Estacionar un vehículo en sitios prohibidos.\nC.3. Bloquear una calzada o intersección con un vehículo, salvo cuando el bloqueo obedezca a la ocurrencia de un accidente de tránsito.\nC.4 Estacionar un vehículo sin tomar las debidas precauciones o sin colocar a la distancia señalada por este código, las señales de peligro\nreglamentarias.",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: B. Será sancionado con multa equivalente a ocho (8) salarios mínimos legales diarios vigentes, el conductor de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nRealizar el cargue o descargue de un vehículo en sitios y horas prohibidas por las autoridades competentes, de acuerdo con lo establecido en las\nnormas correspondientes.\nTransportar carne, pescado o alimentos fácilmente corruptibles, en vehículos que no cumplan las condiciones fijadas por el Ministerio de\nTransporte. Además, se le suspenderá la licencia de conducción por el término de tres (3) meses, sin perjuicio de lo que establezcan las\nautoridades sanitarias.\nLavar vehículos en vía pública, en ríos, en canales, en quebradas, etc.\nLlevar niños menores de diez (10) años en el asiento delantero.\nC. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes, el conductor de un vehículo automotor que\nincurra en cualquiera de las siguientes infracciones:\nPresentar licencia de conducción adulterada o ajena lo cual dará lugar a la inmovilización del vehículo.\nEstacionar un vehículo en sitios prohibidos.\nBloquear una calzada o intersección con un vehículo.\nEstacionar un vehículo sin tomar las debidas precauciones o sin colocar a la distancia señalada por este código, las señales de peligro\nreglamentarias.",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: B. Será sancionado con multa equivalente a ocho (8) salarios mínimos legales diarios vigentes (smldv) el conductor y/o propietario de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nactividades deportivas, debidamente autorizadas por las autoridades de tránsito.\nB.14. Remolcar otro vehículo violando lo dispuesto por este código.\nB.15. Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer\neste aviso deteriorado o adulterado.\nB.16. Permitir que en un vehículo de servicio público para transporte de pasajeros se lleven animales u objetos que incomoden a los pasajeros.\nB.17. Abandonar un vehículo de servicio público con pasajeros.\nB.18. Conducir un vehículo de transporte público individual de pasajeros sin cumplir con lo estipulado en el presente código.\nB.19. Realizar el cargue o descargue de un vehículo en sitios y horas prohibidas por las autoridades competentes, de acuerdo con lo establecido\nen las normas correspondientes.\nB.20. Transportar carne, pescado o alimentos fácilmente corruptibles, en vehículos que no cumplan las condiciones fijadas por el Ministerio de\nTransporte.\nB.21. Lavar vehículos en vía pública, en ríos, en canales y en quebradas.\nB.22. Llevar niños menores de diez (10) años en el asiento delantero.",
+      "[Ley 769 de 2002, Art. 83] ARTÍCULO 83. PROHIBICIÓN DE LLEVAR PASAJEROS EN LA PARTE EXTERIOR DEL VEHÍCULO. Ningún vehículo podrá llevar pasajeros en su parte\nexterior, o fuera de la cabina, salvo aquellos que por su naturaleza así lo requieran, tales como los vehículos de atención de incendios y\nrecolección de basuras. No se permite la movilización de pasajeros en los estribos de los vehículos."
+    ],
+    "articulos_recuperados": [
+      "131",
+      "82",
+      "83"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario consulta si los niños pueden viajar en el asiento delantero de un vehículo.",
+      "causal_reportada": "No aplica",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "De acuerdo con la base consultada, los menores de diez (10) años no podrán viajar en el asiento delantero del vehículo (Ley 769 de 2002, Art. 82).",
+      "recomendaciones": [
+        "Asegúrate de que los menores de 10 años viajen siempre en los asientos posteriores del vehículo.",
+        "Para los menores de dos (2) años, utiliza la silla de seguridad adecuada en el asiento posterior en las condiciones reglamentarias."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "4": {
+    "id": 4,
+    "tipo": "dentro_corpus",
+    "pregunta": "¿Cuál es el procedimiento que debe seguir la autoridad de tránsito para imponer un comparendo?",
+    "ground_truth": "La autoridad de tránsito ordena detener la marcha del vehículo y le extiende al conductor la orden de comparendo, en la que se ordena al infractor presentarse ante la autoridad de tránsito competente dentro de los tres (3) días hábiles siguientes. Al conductor se le debe entregar copia de la orden de comparendo.",
+    "articulos_esperados": [
+      "135"
+    ],
+    "respuesta": "Ante la comisión de una contravención, la autoridad de tránsito debe ordenar detener la marcha del vehículo y extender la orden de comparendo para presentarse dentro de los tres días hábiles siguientes, entregando copia al conductor (Ley 769 de 2002, Art. 135). Además, el informe debe indicar datos como la licencia de conducción, nombre, teléfono y dirección del presunto inculpado, y el nombre y número de placa del agente (Ley 769 de 2002, Art. 129).",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 135] ARTÍCULO 135. PROCEDIMIENTO. Modificado por el art. 22, Ley 1383 de 2010. Ante la comisión de una contravención, la autoridad de tránsito\ndebe seguir el procedimiento siguiente para imponer el comparendo:\nOrdenará detener la marcha del vehículo y le extenderá al conductor la orden de comparendo en la que ordenará al infractor presentarse ante la\nautoridad de tránsito competente dentro de los tres (3) días hábiles siguientes. Al conductor se le entregará copia de la orden de comparendo.\nSi el contraventor no compareciere sin justa causa comprobada en este tiempo, la multa será aumentada hasta por el doble de su valor, en cuyo\ncaso deberá presentarse dentro de los diez (10) días siguientes a la fecha de la infracción\nTexto subrayado declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-530 de 2003, bajo el entendido de que este aparte\ntambién es aplicable a los conductores de vehículos de servicio público.\nLa orden de comparendo deberá estar firmada por el conductor, siempre y cuando ello sea posible. Si el conductor se niega a firmar o a",
+      "[Ley 769 de 2002, Art. 135] PARÁGRAFO 1. La autoridad de tránsito entregará al funcionario competente o a la entidad que aquella encargue para su recaudo, dentro de las\ndoce (12) horas siguientes, la copia de la orden de comparendo, so pena de incurrir en causal de mala conducta.\nCuando se trate de agentes de policía de carreteras, la entrega de esta copia se hará por conducto del comandante de la ruta o del comandante\ndirector del servicio.\nPARÁGRAFO 2. Los organismos de tránsito podrán suscribir contratos o convenios con entes públicos o privados con el fin de dar aplicación a los\nprincipios de celeridad y eficiencia en el cobro de las multas.\nACTUACIÓN EN CASO DE IMPOSICIÓN DE COMPARENDO AL CONDUCTOR PARA EL TRANSPORTE PÚBLICO. Modificado por el art. 23, Ley 1383 de\n2010",
+      "[Ley 769 de 2002, Art. 136] tiempo, la autoridad de tránsito dentro de los diez (10) días siguientes seguirá el proceso, entendiéndose que queda vinculado al mismo,\nfallándose en audiencia pública y notificándose en estrados. Texto subrayado declarado EXEQUIBLE por la Corte Constitucional mediante\nSentencia C-530 de 2003, en el entendido de que este aparte también es aplicable a los conductores de vehículos de servicio público. El resto\ndel texto del inciso fue declarado EXEQUIBLE en la misma Sentncia, bajo el entendido que las garantías allí reguladas también son aplicables a\nlos conductores de vehículos particulares.\nEn la misma audiencia, si fuere posible, se practicarán las pruebas y se sancionará o absolverá al inculpado. Si fuere declarado contraventor, se\nle impondrá el cien por ciento (100%) de la sanción prevista en el código. Inciso declarado EXEQUIBLE por la Corte Constitucional mediante\nSentencia C-530 de 2003, en el entendido que las garantías allí reguladas también son aplicables a los conductores de vehículos particulares.\nLos organismos de tránsito podrán celebrar acuerdos para el recaudo de las multas. Los recursos generados por el cobro de las contravenciones",
+      "[Ley 769 de 2002, Art. 129] ARTÍCULO 129. DE LOS INFORMES DE TRÁNSITO. Los informes de las autoridades de tránsito por las infracciones prevista s en este código, a\ntravés de la imposición de comparendo, deberán indicar el número de la licencia de conducción, el nombre, teléfono y dirección del presunto\ninculpado y el nombre y número de placa del agente que lo realiza. En el caso de no poder indicar el número de licencia de conducción del\ninfractor, el funcionario deberá aportar pruebas objetivas que sustenten el informe o la infracción, intentando la notificación al conductor; si no\nfuere viable identificarlo, se notificará al último propietario registrado del vehículo, para que rinda sus descargos dentro de los siguientes diez\n(10) días al recibo de la notificación, en caso de no concurrir se impondrá la sanción al propietario registrado del vehículo. Texto subrayado\ndeclarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-530 de 2003 y el texto en cursiva declarado EXEQUIBLE en la misma\nsentencia, en el entendido, que el propietario sólo será llamado a descargos, cuando existan elementos probatorios que permitan inferir que\nprobablemente es el responsable de la infracción.",
+      "[Ley 769 de 2002, Art. 135] La orden de comparendo deberá estar firmada por el conductor, siempre y cuando ello sea posible. Si el conductor se niega a firmar o a\npresentar la licencia, firmará por él un testigo. Contra el informe del agente de tránsito firmado por un testigo solamente procede la tacha de\nfalsedad.\nEl Ministerio de Transporte determinará las características del formulario de comparendo único nacional, así como su sistema de reparto. En éste\nse indicará al conductor que tendrá derecho a nombrar un apoderado si así lo desea y que en la audiencia, para la que se le cite, se decretarán o\npracticarán las pruebas que solicite. El comparendo deberá además proveer el espacio para consignar la dirección del inculpado o del testigo\nque lo haya suscrito por éste."
+    ],
+    "articulos_recuperados": [
+      "129",
+      "135",
+      "136"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario pregunta por el procedimiento general que debe seguir la autoridad de tránsito para imponer un comparendo.",
+      "causal_reportada": "Consulta general sobre procedimiento.",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "Ante la comisión de una contravención, la autoridad de tránsito debe ordenar detener la marcha del vehículo y extender la orden de comparendo para presentarse dentro de los tres días hábiles siguientes, entregando copia al conductor (Ley 769 de 2002, Art. 135). Además, el informe debe indicar datos como la licencia de conducción, nombre, teléfono y dirección del presunto inculpado, y el nombre y número de placa del agente (Ley 769 de 2002, Art. 129).",
+      "recomendaciones": [
+        "Verifica que el agente cumpla con entregar la copia de la orden de comparendo.",
+        "Revisa que los datos básicos como tu dirección, placa y número de licencia queden consignados correctamente.",
+        "Ten en cuenta los plazos legales para presentarte o solicitar la audiencia y aportar pruebas."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "5": {
+    "id": 5,
+    "tipo": "dentro_corpus",
+    "pregunta": "¿Qué pasa si el conductor no se presenta dentro del plazo señalado en el comparendo y no tiene una justa causa?",
+    "ground_truth": "Si el contraventor no comparece sin justa causa comprobada dentro de ese término, la multa será aumentada hasta por el doble de su valor, y en ese caso deberá presentarse dentro de los diez (10) días siguientes a la fecha de la infracción.",
+    "articulos_esperados": [
+      "135"
+    ],
+    "respuesta": "De acuerdo con el procedimiento establecido, si el contraventor no compareciere sin justa causa comprobada dentro del tiempo establecido, la multa será aumentada hasta por el doble de su valor, debiendo presentarse dentro de los diez días siguientes a la fecha de la infracción (Ley 769 de 2002, Art. 135). Adicionalmente, la autoridad de tránsito seguirá el proceso dentro de los diez días siguientes, entendiéndose que el infractor queda vinculado al mismo y fallándose en audiencia pública (Ley 769 de 2002, Art. 136).",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 135] ARTÍCULO 135. PROCEDIMIENTO. Modificado por el art. 22, Ley 1383 de 2010. Ante la comisión de una contravención, la autoridad de tránsito\ndebe seguir el procedimiento siguiente para imponer el comparendo:\nOrdenará detener la marcha del vehículo y le extenderá al conductor la orden de comparendo en la que ordenará al infractor presentarse ante la\nautoridad de tránsito competente dentro de los tres (3) días hábiles siguientes. Al conductor se le entregará copia de la orden de comparendo.\nSi el contraventor no compareciere sin justa causa comprobada en este tiempo, la multa será aumentada hasta por el doble de su valor, en cuyo\ncaso deberá presentarse dentro de los diez (10) días siguientes a la fecha de la infracción\nTexto subrayado declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-530 de 2003, bajo el entendido de que este aparte\ntambién es aplicable a los conductores de vehículos de servicio público.\nLa orden de comparendo deberá estar firmada por el conductor, siempre y cuando ello sea posible. Si el conductor se niega a firmar o a",
+      "[Ley 769 de 2002, Art. 136] tiempo, la autoridad de tránsito dentro de los diez (10) días siguientes seguirá el proceso, entendiéndose que queda vinculado al mismo,\nfallándose en audiencia pública y notificándose en estrados. Texto subrayado declarado EXEQUIBLE por la Corte Constitucional mediante\nSentencia C-530 de 2003, en el entendido de que este aparte también es aplicable a los conductores de vehículos de servicio público. El resto\ndel texto del inciso fue declarado EXEQUIBLE en la misma Sentncia, bajo el entendido que las garantías allí reguladas también son aplicables a\nlos conductores de vehículos particulares.\nEn la misma audiencia, si fuere posible, se practicarán las pruebas y se sancionará o absolverá al inculpado. Si fuere declarado contraventor, se\nle impondrá el cien por ciento (100%) de la sanción prevista en el código. Inciso declarado EXEQUIBLE por la Corte Constitucional mediante\nSentencia C-530 de 2003, en el entendido que las garantías allí reguladas también son aplicables a los conductores de vehículos particulares.\nLos organismos de tránsito podrán celebrar acuerdos para el recaudo de las multas. Los recursos generados por el cobro de las contravenciones",
+      "[Ley 769 de 2002, Art. 136] ARTÍCULO 136. REDUCCIÓN DE LA SANCIÓN. Modificado por el art. 24, Ley 1383 de 2010, Modificado por el art. 205, Decreto Nacional 019 de\n2012. Una vez surtida la orden de comparendo, si el inculpado acepta la comisión de la infracción, podrá cancelar el cien por ciento (100%) del\nvalor de la multa dentro de los tres (3) días hábiles siguientes a la orden de comparendo, sin necesidad de otra actuación administrativa. O\npodrá igualmente cancelar el cincuenta por ciento (50%) del valor de la multa al organismo de tránsito y un veinticinco por ciento (25%) al\ncentro integral de atención al cual estará obligado a ir para tomar un curso en la escuela que allí funciona sobre las normas de tránsito. Pero si,\npor el contrario, la rechaza, el inculpado deberá comparecer ante el funcionario en audiencia pública para que éste decrete las pruebas\nconducentes que le sean solicitadas y las de oficio que considere útiles. Si el contraventor no compareciere sin justa causa comprobada en este\ntiempo, la autoridad de tránsito dentro de los diez (10) días siguientes seguirá el proceso, entendiéndose que queda vinculado al mismo,",
+      "[Ley 769 de 2002, Art. 137] ARTÍCULO 137. INFORMACIÓN. En los casos en que la infracción fuere detectada por medios que permitan comprobar la identidad del vehículo o\ndel conductor el comparendo se remitirá a la dirección registrada del último propietario del vehículo.\nLa actuación se adelantará en la forma prevista en el artículo precedente, co n un plazo adicional de seis (6) días hábiles contados a partir del\nrecibo de la comunicación respectiva, para lo cual deberá disponerse de la prueba de la infracción como anexo necesario del comparendo.\nSi no se presentare el citado a rendir sus descargos ni solicitare pruebas que desvirtúen la comisión de la infracción, se registrará la sanción a su\ncargo en el Registro de Conductores e infractores, en concordancia con lo dispuesto por el presente código. Inciso declarado EXEQUIBLE por la\nCorte Constitucional mediante Sentencia C-530 de 2003, en el entendido, que sólo se puede culminar la actuación, cuando la administración\nhaya agotado todos los medios a su alcance para hacer comparecer al citado y, cuando el propietario no coincida con el conductor, esa citación",
+      "[Ley 769 de 2002, Art. 135] La orden de comparendo deberá estar firmada por el conductor, siempre y cuando ello sea posible. Si el conductor se niega a firmar o a\npresentar la licencia, firmará por él un testigo. Contra el informe del agente de tránsito firmado por un testigo solamente procede la tacha de\nfalsedad.\nEl Ministerio de Transporte determinará las características del formulario de comparendo único nacional, así como su sistema de reparto. En éste\nse indicará al conductor que tendrá derecho a nombrar un apoderado si así lo desea y que en la audiencia, para la que se le cite, se decretarán o\npracticarán las pruebas que solicite. El comparendo deberá además proveer el espacio para consignar la dirección del inculpado o del testigo\nque lo haya suscrito por éste."
+    ],
+    "articulos_recuperados": [
+      "135",
+      "136",
+      "137"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario consulta sobre las consecuencias de no presentarse ante la autoridad de tránsito dentro del plazo señalado en el comparendo sin una justa causa comprobada.",
+      "causal_reportada": "No aplica (consulta general sobre el procedimiento).",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "De acuerdo con el procedimiento establecido, si el contraventor no compareciere sin justa causa comprobada dentro del tiempo establecido, la multa será aumentada hasta por el doble de su valor, debiendo presentarse dentro de los diez días siguientes a la fecha de la infracción (Ley 769 de 2002, Art. 135). Adicionalmente, la autoridad de tránsito seguirá el proceso dentro de los diez días siguientes, entendiéndose que el infractor queda vinculado al mismo y fallándose en audiencia pública (Ley 769 de 2002, Art. 136).",
+      "recomendaciones": [
+        "Revisa las fechas en la orden de comparendo para calcular con precisión los plazos legales.",
+        "Comunícate con el organismo de tránsito o acude presencialmente para verificar el estado actual del proceso y evitar aumentos en la sanción."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "6": {
+    "id": 6,
+    "tipo": "dentro_corpus",
+    "pregunta": "¿Debe el conductor firmar el comparendo? ¿Qué pasa si se niega a firmarlo?",
+    "ground_truth": "La orden de comparendo debe estar firmada por el conductor, siempre y cuando ello sea posible. Si el conductor se niega a firmar o a presentar la licencia, firma por él un testigo. Contra el informe del agente de tránsito firmado por un testigo solamente procede la tacha de falsedad.",
+    "articulos_esperados": [
+      "135"
+    ],
+    "respuesta": "De acuerdo con la norma, la orden de comparendo deberá estar firmada por el conductor, siempre y cuando ello sea posible. Si el conductor se niega a firmar o a presentar la licencia, firmará por él un testigo (Ley 769 de 2002, Art. 135). Contra el informe del agente de tránsito firmado por un testigo solamente procede la tacha de falsedad.",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 135] La orden de comparendo deberá estar firmada por el conductor, siempre y cuando ello sea posible. Si el conductor se niega a firmar o a\npresentar la licencia, firmará por él un testigo. Contra el informe del agente de tránsito firmado por un testigo solamente procede la tacha de\nfalsedad.\nEl Ministerio de Transporte determinará las características del formulario de comparendo único nacional, así como su sistema de reparto. En éste\nse indicará al conductor que tendrá derecho a nombrar un apoderado si así lo desea y que en la audiencia, para la que se le cite, se decretarán o\npracticarán las pruebas que solicite. El comparendo deberá además proveer el espacio para consignar la dirección del inculpado o del testigo\nque lo haya suscrito por éste.",
+      "[Ley 769 de 2002, Art. 135] ARTÍCULO 135. PROCEDIMIENTO. Modificado por el art. 22, Ley 1383 de 2010. Ante la comisión de una contravención, la autoridad de tránsito\ndebe seguir el procedimiento siguiente para imponer el comparendo:\nOrdenará detener la marcha del vehículo y le extenderá al conductor la orden de comparendo en la que ordenará al infractor presentarse ante la\nautoridad de tránsito competente dentro de los tres (3) días hábiles siguientes. Al conductor se le entregará copia de la orden de comparendo.\nSi el contraventor no compareciere sin justa causa comprobada en este tiempo, la multa será aumentada hasta por el doble de su valor, en cuyo\ncaso deberá presentarse dentro de los diez (10) días siguientes a la fecha de la infracción\nTexto subrayado declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-530 de 2003, bajo el entendido de que este aparte\ntambién es aplicable a los conductores de vehículos de servicio público.\nLa orden de comparendo deberá estar firmada por el conductor, siempre y cuando ello sea posible. Si el conductor se niega a firmar o a",
+      "[Ley 769 de 2002, Art. 136] ARTÍCULO 136. REDUCCIÓN DE LA SANCIÓN. Modificado por el art. 24, Ley 1383 de 2010, Modificado por el art. 205, Decreto Nacional 019 de\n2012. Una vez surtida la orden de comparendo, si el inculpado acepta la comisión de la infracción, podrá cancelar el cien por ciento (100%) del\nvalor de la multa dentro de los tres (3) días hábiles siguientes a la orden de comparendo, sin necesidad de otra actuación administrativa. O\npodrá igualmente cancelar el cincuenta por ciento (50%) del valor de la multa al organismo de tránsito y un veinticinco por ciento (25%) al\ncentro integral de atención al cual estará obligado a ir para tomar un curso en la escuela que allí funciona sobre las normas de tránsito. Pero si,\npor el contrario, la rechaza, el inculpado deberá comparecer ante el funcionario en audiencia pública para que éste decrete las pruebas\nconducentes que le sean solicitadas y las de oficio que considere útiles. Si el contraventor no compareciere sin justa causa comprobada en este\ntiempo, la autoridad de tránsito dentro de los diez (10) días siguientes seguirá el proceso, entendiéndose que queda vinculado al mismo,",
+      "[Ley 769 de 2002, Art. 137] ARTÍCULO 137. INFORMACIÓN. En los casos en que la infracción fuere detectada por medios que permitan comprobar la identidad del vehículo o\ndel conductor el comparendo se remitirá a la dirección registrada del último propietario del vehículo.\nLa actuación se adelantará en la forma prevista en el artículo precedente, co n un plazo adicional de seis (6) días hábiles contados a partir del\nrecibo de la comunicación respectiva, para lo cual deberá disponerse de la prueba de la infracción como anexo necesario del comparendo.\nSi no se presentare el citado a rendir sus descargos ni solicitare pruebas que desvirtúen la comisión de la infracción, se registrará la sanción a su\ncargo en el Registro de Conductores e infractores, en concordancia con lo dispuesto por el presente código. Inciso declarado EXEQUIBLE por la\nCorte Constitucional mediante Sentencia C-530 de 2003, en el entendido, que sólo se puede culminar la actuación, cuando la administración\nhaya agotado todos los medios a su alcance para hacer comparecer al citado y, cuando el propietario no coincida con el conductor, esa citación",
+      "[Ley 769 de 2002, Art. 135] PARÁGRAFO 1. La autoridad de tránsito entregará al funcionario competente o a la entidad que aquella encargue para su recaudo, dentro de las\ndoce (12) horas siguientes, la copia de la orden de comparendo, so pena de incurrir en causal de mala conducta.\nCuando se trate de agentes de policía de carreteras, la entrega de esta copia se hará por conducto del comandante de la ruta o del comandante\ndirector del servicio.\nPARÁGRAFO 2. Los organismos de tránsito podrán suscribir contratos o convenios con entes públicos o privados con el fin de dar aplicación a los\nprincipios de celeridad y eficiencia en el cobro de las multas.\nACTUACIÓN EN CASO DE IMPOSICIÓN DE COMPARENDO AL CONDUCTOR PARA EL TRANSPORTE PÚBLICO. Modificado por el art. 23, Ley 1383 de\n2010"
+    ],
+    "articulos_recuperados": [
+      "135",
+      "136",
+      "137"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario consulta sobre la obligatoriedad de la firma del conductor en el comparendo y las consecuencias en caso de negarse a firmarlo.",
+      "causal_reportada": "No aplica (consulta general sobre el procedimiento).",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "De acuerdo con la norma, la orden de comparendo deberá estar firmada por el conductor, siempre y cuando ello sea posible. Si el conductor se niega a firmar o a presentar la licencia, firmará por él un testigo (Ley 769 de 2002, Art. 135). Contra el informe del agente de tránsito firmado por un testigo solamente procede la tacha de falsedad.",
+      "recomendaciones": [
+        "Recuerda que firmar el comparendo en vía solo significa que recibes la copia del documento y no implica necesariamente la aceptación de la culpa.",
+        "Si te niegas a firmar, el agente procederá a que un testigo firme por ti, por lo que es preferible mantener la calma y verificar que los datos consignados sean correctos."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "7": {
+    "id": 7,
+    "tipo": "dentro_corpus",
+    "pregunta": "¿Qué ocurre si la persona rechaza la comisión de la infracción que le imputan en el comparendo?",
+    "ground_truth": "Si el inculpado rechaza la infracción, debe comparecer ante el funcionario en audiencia pública, donde se decretan las pruebas conducentes que solicite y las de oficio que se consideren útiles. Si no comparece sin justa causa, la autoridad de tránsito sigue el proceso dentro de los diez (10) días siguientes y se falla en audiencia pública, notificándose en estrados. Si es declarado contraventor, se le impone el cien por ciento (100%) de la sanción prevista en el código.",
+    "articulos_esperados": [
+      "136"
+    ],
+    "respuesta": "De acuerdo con el procedimiento establecido, si el inculpado rechaza la comision de la infraccion, debera comparecer ante el funcionario en audiencia publica para que este decrete las pruebas conducentes solicitadas y las de oficio (Ley 769 de 2002, Art. 136).",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 136] ARTÍCULO 136. REDUCCIÓN DE LA SANCIÓN. Modificado por el art. 24, Ley 1383 de 2010, Modificado por el art. 205, Decreto Nacional 019 de\n2012. Una vez surtida la orden de comparendo, si el inculpado acepta la comisión de la infracción, podrá cancelar el cien por ciento (100%) del\nvalor de la multa dentro de los tres (3) días hábiles siguientes a la orden de comparendo, sin necesidad de otra actuación administrativa. O\npodrá igualmente cancelar el cincuenta por ciento (50%) del valor de la multa al organismo de tránsito y un veinticinco por ciento (25%) al\ncentro integral de atención al cual estará obligado a ir para tomar un curso en la escuela que allí funciona sobre las normas de tránsito. Pero si,\npor el contrario, la rechaza, el inculpado deberá comparecer ante el funcionario en audiencia pública para que éste decrete las pruebas\nconducentes que le sean solicitadas y las de oficio que considere útiles. Si el contraventor no compareciere sin justa causa comprobada en este\ntiempo, la autoridad de tránsito dentro de los diez (10) días siguientes seguirá el proceso, entendiéndose que queda vinculado al mismo,",
+      "[Ley 769 de 2002, Art. 135] La orden de comparendo deberá estar firmada por el conductor, siempre y cuando ello sea posible. Si el conductor se niega a firmar o a\npresentar la licencia, firmará por él un testigo. Contra el informe del agente de tránsito firmado por un testigo solamente procede la tacha de\nfalsedad.\nEl Ministerio de Transporte determinará las características del formulario de comparendo único nacional, así como su sistema de reparto. En éste\nse indicará al conductor que tendrá derecho a nombrar un apoderado si así lo desea y que en la audiencia, para la que se le cite, se decretarán o\npracticarán las pruebas que solicite. El comparendo deberá además proveer el espacio para consignar la dirección del inculpado o del testigo\nque lo haya suscrito por éste.",
+      "[Ley 769 de 2002, Art. 136] tiempo, la autoridad de tránsito dentro de los diez (10) días siguientes seguirá el proceso, entendiéndose que queda vinculado al mismo,\nfallándose en audiencia pública y notificándose en estrados. Texto subrayado declarado EXEQUIBLE por la Corte Constitucional mediante\nSentencia C-530 de 2003, en el entendido de que este aparte también es aplicable a los conductores de vehículos de servicio público. El resto\ndel texto del inciso fue declarado EXEQUIBLE en la misma Sentncia, bajo el entendido que las garantías allí reguladas también son aplicables a\nlos conductores de vehículos particulares.\nEn la misma audiencia, si fuere posible, se practicarán las pruebas y se sancionará o absolverá al inculpado. Si fuere declarado contraventor, se\nle impondrá el cien por ciento (100%) de la sanción prevista en el código. Inciso declarado EXEQUIBLE por la Corte Constitucional mediante\nSentencia C-530 de 2003, en el entendido que las garantías allí reguladas también son aplicables a los conductores de vehículos particulares.\nLos organismos de tránsito podrán celebrar acuerdos para el recaudo de las multas. Los recursos generados por el cobro de las contravenciones",
+      "[Ley 769 de 2002, Art. 135] ARTÍCULO 135. PROCEDIMIENTO. Modificado por el art. 22, Ley 1383 de 2010. Ante la comisión de una contravención, la autoridad de tránsito\ndebe seguir el procedimiento siguiente para imponer el comparendo:\nOrdenará detener la marcha del vehículo y le extenderá al conductor la orden de comparendo en la que ordenará al infractor presentarse ante la\nautoridad de tránsito competente dentro de los tres (3) días hábiles siguientes. Al conductor se le entregará copia de la orden de comparendo.\nSi el contraventor no compareciere sin justa causa comprobada en este tiempo, la multa será aumentada hasta por el doble de su valor, en cuyo\ncaso deberá presentarse dentro de los diez (10) días siguientes a la fecha de la infracción\nTexto subrayado declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-530 de 2003, bajo el entendido de que este aparte\ntambién es aplicable a los conductores de vehículos de servicio público.\nLa orden de comparendo deberá estar firmada por el conductor, siempre y cuando ello sea posible. Si el conductor se niega a firmar o a",
+      "[Ley 769 de 2002, Art. 137] ARTÍCULO 137. INFORMACIÓN. En los casos en que la infracción fuere detectada por medios que permitan comprobar la identidad del vehículo o\ndel conductor el comparendo se remitirá a la dirección registrada del último propietario del vehículo.\nLa actuación se adelantará en la forma prevista en el artículo precedente, co n un plazo adicional de seis (6) días hábiles contados a partir del\nrecibo de la comunicación respectiva, para lo cual deberá disponerse de la prueba de la infracción como anexo necesario del comparendo.\nSi no se presentare el citado a rendir sus descargos ni solicitare pruebas que desvirtúen la comisión de la infracción, se registrará la sanción a su\ncargo en el Registro de Conductores e infractores, en concordancia con lo dispuesto por el presente código. Inciso declarado EXEQUIBLE por la\nCorte Constitucional mediante Sentencia C-530 de 2003, en el entendido, que sólo se puede culminar la actuación, cuando la administración\nhaya agotado todos los medios a su alcance para hacer comparecer al citado y, cuando el propietario no coincida con el conductor, esa citación"
+    ],
+    "articulos_recuperados": [
+      "135",
+      "136",
+      "137"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario pregunta sobre las consecuencias o el procedimiento a seguir cuando una persona rechaza la infraccion imputada en un comparendo.",
+      "causal_reportada": "Consulta general sobre el procedimiento de rechazo de comparendo.",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "De acuerdo con el procedimiento establecido, si el inculpado rechaza la comision de la infraccion, debera comparecer ante el funcionario en audiencia publica para que este decrete las pruebas conducentes solicitadas y las de oficio (Ley 769 de 2002, Art. 136).",
+      "recomendaciones": [
+        "Presentate ante la autoridad de tránsito competente dentro del plazo señalado para manifestar tu rechazo y solicitar las pruebas que consideres conducentes.",
+        "Asiste a la audiencia publica programada para ejercer tu derecho de defensa y solicitar o aportar pruebas.",
+        "Considera la asesoria de un abogado si requieres apoyo en la sustentacion de tus descargos."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "8": {
+    "id": 8,
+    "tipo": "dentro_corpus",
+    "pregunta": "¿Qué recursos se pueden presentar contra las decisiones del proceso de tránsito y cómo se interponen?",
+    "ground_truth": "Proceden los recursos de reposición y de apelación. La reposición procede contra los autos ante el mismo funcionario y debe interponerse y sustentarse en la propia audiencia en que se pronuncie. La apelación procede solo contra las resoluciones que pongan fin a la primera instancia y debe interponerse oralmente y sustentarse en la audiencia en que se profiera.",
+    "articulos_esperados": [
+      "142"
+    ],
+    "respuesta": "De acuerdo con el procedimiento contravencional, contra las providencias dictadas en el proceso proceden los recursos de reposición y apelación. El recurso de reposición procede ante el mismo funcionario y debe interponerse y sustentarse en la propia audiencia en la que se pronuncie; el de apelación procede solo contra las resoluciones que ponen fin a la primera instancia y debe interponerse oralmente y sustentarse en la misma audiencia (Ley 769 de 2002, Art. 142).",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 142] ARTÍCULO 142. RECURSOS. Contra las providencias que se dicten dentro del proceso procederán los recursos de reposición y apelación.\nEl recurso de reposición procede contra los autos ante el mismo funcionario y deberá interponerse y sustentarse en la propia audiencia en la que\nse pronuncie.\nEl recurso de apelación procede sólo contra las resoluciones que pongan fin a la primera instancia y deberá interponerse oralmente y\nsustentarse en la audiencia en que se profiera.\nToda providencia queda en firme cuando vencido el término de su ejecutoria, no se ha interpuesto recurso alguno o éste ha sido negado.\nPROCEDIMIENTO EN CASO DE DAÑOS A COSAS.",
+      "[Ley 769 de 2002, Art. 161] ARTÍCULO 161. CADUCIDAD. La acción por contravención de las normas de tránsito, caduca al año (1), contado a partir de la ocurrencia de los\nhechos que dieron origen a ella. En consecuencia, durante este término se deberá decidir sobre la imposición de la sanción, en tal momento se\nentenderá realizada efectivamente la audiencia e interrumpida la caducidad.\nLa decisión que resuelve los recursos, de ser procedentes, deberá ser expedida en un término de un (1) año contado a partir de su debida y\noportuna interposición, si los recursos no se deciden en el término fijado en esta disposición, se entenderán fallados a favor del recurrente.\nLa revocación directa solo podrá proceder en forma supletiva al proceso contravencional y en el evento de ser resuelta a favor de los intereses\ndel presunto infractor sus efectos serán a futuro, iniciando la contabilización de la caducidad a partir de la notificación de la aceptación de su\nsolicitud o su declaratoria de oficio, permitiendo al presunto infractor contar con los términos establecidos en la ley para la obtención de los\ndescuentos establecidos en la ley o la realización de la audiencia contemplados en el Código Nacional de Tránsito.",
+      "[Ley 769 de 2002, Art. 136] tiempo, la autoridad de tránsito dentro de los diez (10) días siguientes seguirá el proceso, entendiéndose que queda vinculado al mismo,\nfallándose en audiencia pública y notificándose en estrados. Texto subrayado declarado EXEQUIBLE por la Corte Constitucional mediante\nSentencia C-530 de 2003, en el entendido de que este aparte también es aplicable a los conductores de vehículos de servicio público. El resto\ndel texto del inciso fue declarado EXEQUIBLE en la misma Sentncia, bajo el entendido que las garantías allí reguladas también son aplicables a\nlos conductores de vehículos particulares.\nEn la misma audiencia, si fuere posible, se practicarán las pruebas y se sancionará o absolverá al inculpado. Si fuere declarado contraventor, se\nle impondrá el cien por ciento (100%) de la sanción prevista en el código. Inciso declarado EXEQUIBLE por la Corte Constitucional mediante\nSentencia C-530 de 2003, en el entendido que las garantías allí reguladas también son aplicables a los conductores de vehículos particulares.\nLos organismos de tránsito podrán celebrar acuerdos para el recaudo de las multas. Los recursos generados por el cobro de las contravenciones",
+      "[Ley 769 de 2002, Art. 158] .parte de la autoridad de tránsito y sin necesidad de la autorización expresa del afectado, dentro de un término que, en ningún caso, podrá\nsuperar los 30 días hábiles siguientes a la fecha en la cual haya quedado en firme la decisión que para el efecto haya proferido la\nSuperintendencia de Transporte.\nLos recursos provenientes de la multa prevista en el presente artículo entrarán a formar parte del presupuesto de la Superintendencia de\nTransporte.",
+      "[Ley 769 de 2002, Art. 141] ARTÍCULO 141. En aquellos municipios ribereños o conurbados cuyos cascos urbanos se encuentren separados por un río y unidos por un\npuente, podrá prestarse el servicio público de transporte terrestre automotor individual de pasajeros entre ellos, en zona urbana o rural, por los\nvehículos automotores que cuenten con los permisos y autorizaciones correspondientes expedidos por las autoridades de tránsito de los\nmunicipios involucrados; únicamente para los viajes que tengan origen en el municipio donde esté matriculado el vehículo.\nRECURSOS."
+    ],
+    "articulos_recuperados": [
+      "136",
+      "141",
+      "142",
+      "158",
+      "161"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario pregunta cuales son los recursos que se pueden presentar dentro del proceso de tránsito y de que forma deben interponerse.",
+      "causal_reportada": "Consulta general sobre recursos en el proceso de transito.",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "De acuerdo con el procedimiento contravencional, contra las providencias dictadas en el proceso proceden los recursos de reposición y apelación. El recurso de reposición procede ante el mismo funcionario y debe interponerse y sustentarse en la propia audiencia en la que se pronuncie; el de apelación procede solo contra las resoluciones que ponen fin a la primera instancia y debe interponerse oralmente y sustentarse en la misma audiencia (Ley 769 de 2002, Art. 142).",
+      "recomendaciones": [
+        "Asiste de manera oportuna a las audiencias programadas por el organismo de tránsito para ejercer tu derecho a interponer los recursos de forma oral.",
+        "Presenta y sustenta el recurso de reposición en la misma audiencia donde se pronuncie la providencia.",
+        "Interpón y sustenta el recurso de apelación de forma oral en la audiencia en que se profiera la resolución que pone fin a la primera instancia."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "9": {
+    "id": 9,
+    "tipo": "dentro_corpus",
+    "pregunta": "¿En cuánto tiempo caduca la acción por una contravención de tránsito?",
+    "ground_truth": "La acción por contravención de las normas de tránsito caduca al año (1), contado a partir de la ocurrencia de los hechos que le dieron origen. Durante ese término se debe decidir sobre la imposición de la sanción.",
+    "articulos_esperados": [
+      "161"
+    ],
+    "respuesta": "La acción por contravención de las normas de tránsito caduca al año (1), contado a partir de la ocurrencia de los hechos que dieron origen a ella (Ley 769 de 2002, Art. 161).",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 161] ARTÍCULO 161. CADUCIDAD. La acción por contravención de las normas de tránsito, caduca al año (1), contado a partir de la ocurrencia de los\nhechos que dieron origen a ella. En consecuencia, durante este término se deberá decidir sobre la imposición de la sanción, en tal momento se\nentenderá realizada efectivamente la audiencia e interrumpida la caducidad.\nLa decisión que resuelve los recursos, de ser procedentes, deberá ser expedida en un término de un (1) año contado a partir de su debida y\noportuna interposición, si los recursos no se deciden en el término fijado en esta disposición, se entenderán fallados a favor del recurrente.\nLa revocación directa solo podrá proceder en forma supletiva al proceso contravencional y en el evento de ser resuelta a favor de los intereses\ndel presunto infractor sus efectos serán a futuro, iniciando la contabilización de la caducidad a partir de la notificación de la aceptación de su\nsolicitud o su declaratoria de oficio, permitiendo al presunto infractor contar con los términos establecidos en la ley para la obtención de los\ndescuentos establecidos en la ley o la realización de la audiencia contemplados en el Código Nacional de Tránsito.",
+      "[Ley 769 de 2002, Art. 159] ARTÍCULO 159. CUMPLIMIENTO. Modificado por el art. 26, Ley 1383 de 2010, Modificado por el art. 206, Decreto Nacional 019 de 2012. La\nejecución de las sanciones que se impongan por violación de las normas de tránsito, estará a cargo de las autoridades de tránsito de la\njurisdicción donde se cometió el hecho, quienes estarán investidas de jurisdicción coactiva para el cobro, cuando ello fuere necesario y\nprescribirán en tres años contados a partir de la ocurrencia del hecho y se interrumpirá con la presentación de la demanda.\nPARÁGRAFO 1. Las autoridades de tránsito adoptarán las medidas indispensables para facilitar el pago y el recaudo de las multas y demás\nderechos establecidos a su favor.",
+      "[Ley 769 de 2002, Art. 161] descuentos establecidos en la ley o la realización de la audiencia contemplados en el Código Nacional de Tránsito.\nModificado Artículo 11 LEY 1843 de 2017\nAPLICACIONES DE OTROS CÓDIGOS Y DISPOSICIONES FINALES.",
+      "[Ley 769 de 2002, Art. 170] ARTÍCULO 170. VIGENCIA. El presente código empezará a regir transcurridos tres (3) meses contados a partir de su promulgación y deroga todas\nlas disposiciones que le sean contrarias. Derógase el Decreto 1344 de 1970 y sus disposiciones reglamentarias y modificatorias.\nARTÍCULO TRANSITORÍO. Adicionado por el art. 27, Ley 769 de 2002\nARTÍCULO TRANSITORIO. Los deudores de multas por infracciones a las normas de tránsito que se hayan hecho exigibles con anterioridad al 30\nde junio de 2021, tendrán derecho a la siguiente condición especial de pago:\n1. Dentro de los cuatro (4) meses siguientes a la entrada en vigencia de la presente ley se pagará el 50% del capital sin intereses de mora.\n2. Entre los cuatro (4) y los ocho (8) meses siguientes a la entrada en vigencia de la presente ley se pagará el 50% del capital sin intereses de\nmora.\n3. Entre los ocho (8) y los doce (12) meses siguientes a la entrada en vigencia de la presente ley se pagará el 80% del capital sin intereses de\nmora.",
+      "[Ley 769 de 2002, Art. 136] tiempo, la autoridad de tránsito dentro de los diez (10) días siguientes seguirá el proceso, entendiéndose que queda vinculado al mismo,\nfallándose en audiencia pública y notificándose en estrados. Texto subrayado declarado EXEQUIBLE por la Corte Constitucional mediante\nSentencia C-530 de 2003, en el entendido de que este aparte también es aplicable a los conductores de vehículos de servicio público. El resto\ndel texto del inciso fue declarado EXEQUIBLE en la misma Sentncia, bajo el entendido que las garantías allí reguladas también son aplicables a\nlos conductores de vehículos particulares.\nEn la misma audiencia, si fuere posible, se practicarán las pruebas y se sancionará o absolverá al inculpado. Si fuere declarado contraventor, se\nle impondrá el cien por ciento (100%) de la sanción prevista en el código. Inciso declarado EXEQUIBLE por la Corte Constitucional mediante\nSentencia C-530 de 2003, en el entendido que las garantías allí reguladas también son aplicables a los conductores de vehículos particulares.\nLos organismos de tránsito podrán celebrar acuerdos para el recaudo de las multas. Los recursos generados por el cobro de las contravenciones"
+    ],
+    "articulos_recuperados": [
+      "136",
+      "159",
+      "161",
+      "170"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario pregunta por el tiempo en que caduca la acción por una contravención de tránsito.",
+      "causal_reportada": "Consulta general sobre caducidad.",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "La acción por contravención de las normas de tránsito caduca al año (1), contado a partir de la ocurrencia de los hechos que dieron origen a ella (Ley 769 de 2002, Art. 161).",
+      "recomendaciones": [
+        "Verifica la fecha exacta en la que ocurrieron los hechos del comparendo para calcular si ha transcurrido un año sin que se haya decidido la imposición de la sanción.",
+        "Consulta directamente con el organismo de tránsito competente el estado del proceso contravencional."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "10": {
+    "id": 10,
+    "tipo": "dentro_corpus",
+    "pregunta": "¿En cuánto tiempo prescriben las sanciones impuestas por violar las normas de tránsito?",
+    "ground_truth": "Las sanciones que se impongan por violación de las normas de tránsito prescriben en tres (3) años contados a partir de la ocurrencia del hecho, y la prescripción se interrumpe con la presentación de la demanda.",
+    "articulos_esperados": [
+      "159"
+    ],
+    "respuesta": "Las sanciones impuestas por violación de las normas de tránsito prescribirán en tres años contados a partir de la ocurrencia del hecho y se interrumpirán con la presentación de la demanda (Ley 769 de 2002, Art. 159).",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 159] ARTÍCULO 159. CUMPLIMIENTO. Modificado por el art. 26, Ley 1383 de 2010, Modificado por el art. 206, Decreto Nacional 019 de 2012. La\nejecución de las sanciones que se impongan por violación de las normas de tránsito, estará a cargo de las autoridades de tránsito de la\njurisdicción donde se cometió el hecho, quienes estarán investidas de jurisdicción coactiva para el cobro, cuando ello fuere necesario y\nprescribirán en tres años contados a partir de la ocurrencia del hecho y se interrumpirá con la presentación de la demanda.\nPARÁGRAFO 1. Las autoridades de tránsito adoptarán las medidas indispensables para facilitar el pago y el recaudo de las multas y demás\nderechos establecidos a su favor.",
+      "[Ley 769 de 2002, Art. 161] ARTÍCULO 161. CADUCIDAD. La acción por contravención de las normas de tránsito, caduca al año (1), contado a partir de la ocurrencia de los\nhechos que dieron origen a ella. En consecuencia, durante este término se deberá decidir sobre la imposición de la sanción, en tal momento se\nentenderá realizada efectivamente la audiencia e interrumpida la caducidad.\nLa decisión que resuelve los recursos, de ser procedentes, deberá ser expedida en un término de un (1) año contado a partir de su debida y\noportuna interposición, si los recursos no se deciden en el término fijado en esta disposición, se entenderán fallados a favor del recurrente.\nLa revocación directa solo podrá proceder en forma supletiva al proceso contravencional y en el evento de ser resuelta a favor de los intereses\ndel presunto infractor sus efectos serán a futuro, iniciando la contabilización de la caducidad a partir de la notificación de la aceptación de su\nsolicitud o su declaratoria de oficio, permitiendo al presunto infractor contar con los términos establecidos en la ley para la obtención de los\ndescuentos establecidos en la ley o la realización de la audiencia contemplados en el Código Nacional de Tránsito.",
+      "[Ley 769 de 2002, Art. 170] ARTÍCULO 170. VIGENCIA. El presente código empezará a regir transcurridos tres (3) meses contados a partir de su promulgación y deroga todas\nlas disposiciones que le sean contrarias. Derógase el Decreto 1344 de 1970 y sus disposiciones reglamentarias y modificatorias.\nARTÍCULO TRANSITORÍO. Adicionado por el art. 27, Ley 769 de 2002\nARTÍCULO TRANSITORIO. Los deudores de multas por infracciones a las normas de tránsito que se hayan hecho exigibles con anterioridad al 30\nde junio de 2021, tendrán derecho a la siguiente condición especial de pago:\n1. Dentro de los cuatro (4) meses siguientes a la entrada en vigencia de la presente ley se pagará el 50% del capital sin intereses de mora.\n2. Entre los cuatro (4) y los ocho (8) meses siguientes a la entrada en vigencia de la presente ley se pagará el 50% del capital sin intereses de\nmora.\n3. Entre los ocho (8) y los doce (12) meses siguientes a la entrada en vigencia de la presente ley se pagará el 80% del capital sin intereses de\nmora.",
+      "[Ley 769 de 2002, Art. 133] ARTÍCULO 133. CAPACITACIÓN. Los peatones y ciclistas que no cumplan con las disposiciones de este código, serán amonestados por la\nautoridad de tránsito competente y deberán asistir a un curso formativo dictado por las autoridades de tránsito. La inasistencia al curso será\nsancionada con arresto de uno (1) a seis (6) días. Texto subrayado declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-530\nde 2003\nCOMPETENCIA\nNORMAS DE COMPORTAMIENTO\nVer art. 34, Decreto Nacional 1660 de 2003",
+      "[Ley 769 de 2002, Art. 122] ARTÍCULO 122. TIPOS DE SANCIONES. Modificado por el art. 20, Ley 1383 de 2010. Las sanciones por infracciones del presente Código son:\nAmonestación.\nMulta.\nSuspensión de la licencia de conducción.\nSuspensión o cancelación del permiso o registro.\nInmovilización del vehículo.\nRetención preventiva del vehículo.\nCancelación definitiva de la licencia de conducción.\nLas sanciones señaladas en este artículo se impondrán como principales o accesorias al responsable de la infracción, independientemente de las\nsanciones ambientales a que haya lugar por violación de cualquiera de las regulaciones, prohibiciones y restricciones sobre emisiones\ncontaminantes y generación de ruido por fuentes móviles."
+    ],
+    "articulos_recuperados": [
+      "122",
+      "133",
+      "159",
+      "161",
+      "170"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario consulta sobre el tiempo en el que prescriben las sanciones impuestas por infracciones a las normas de tránsito.",
+      "causal_reportada": "Consulta general sobre prescripción de sanciones.",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "Las sanciones impuestas por violación de las normas de tránsito prescribirán en tres años contados a partir de la ocurrencia del hecho y se interrumpirán con la presentación de la demanda (Ley 769 de 2002, Art. 159).",
+      "recomendaciones": [
+        "Verifica la fecha exacta en la que se impuso la sanción o el comparendo para calcular el tiempo transcurrido.",
+        "Consulta directamente con el organismo de tránsito de la jurisdicción para confirmar el estado actual de la sanción."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "11": {
+    "id": 11,
+    "tipo": "dentro_corpus",
+    "pregunta": "¿Cómo se notifican las providencias que se dictan dentro del proceso de tránsito?",
+    "ground_truth": "La notificación de las providencias que se dicten dentro del proceso se hace en estrados.",
+    "articulos_esperados": [
+      "139"
+    ],
+    "respuesta": "La notificación de las providencias que se dicten dentro del proceso se hará en estrados (Ley 769 de 2002, Art. 139).",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 139] ARTÍCULO 139. NOTIFICACIÓN. La notificación de las providencias que se dicten dentro del proceso se hará en estrados.",
+      "[Ley 769 de 2002, Art. 136] tiempo, la autoridad de tránsito dentro de los diez (10) días siguientes seguirá el proceso, entendiéndose que queda vinculado al mismo,\nfallándose en audiencia pública y notificándose en estrados. Texto subrayado declarado EXEQUIBLE por la Corte Constitucional mediante\nSentencia C-530 de 2003, en el entendido de que este aparte también es aplicable a los conductores de vehículos de servicio público. El resto\ndel texto del inciso fue declarado EXEQUIBLE en la misma Sentncia, bajo el entendido que las garantías allí reguladas también son aplicables a\nlos conductores de vehículos particulares.\nEn la misma audiencia, si fuere posible, se practicarán las pruebas y se sancionará o absolverá al inculpado. Si fuere declarado contraventor, se\nle impondrá el cien por ciento (100%) de la sanción prevista en el código. Inciso declarado EXEQUIBLE por la Corte Constitucional mediante\nSentencia C-530 de 2003, en el entendido que las garantías allí reguladas también son aplicables a los conductores de vehículos particulares.\nLos organismos de tránsito podrán celebrar acuerdos para el recaudo de las multas. Los recursos generados por el cobro de las contravenciones",
+      "[Ley 769 de 2002, Art. 137] ARTÍCULO 137. INFORMACIÓN. En los casos en que la infracción fuere detectada por medios que permitan comprobar la identidad del vehículo o\ndel conductor el comparendo se remitirá a la dirección registrada del último propietario del vehículo.\nLa actuación se adelantará en la forma prevista en el artículo precedente, co n un plazo adicional de seis (6) días hábiles contados a partir del\nrecibo de la comunicación respectiva, para lo cual deberá disponerse de la prueba de la infracción como anexo necesario del comparendo.\nSi no se presentare el citado a rendir sus descargos ni solicitare pruebas que desvirtúen la comisión de la infracción, se registrará la sanción a su\ncargo en el Registro de Conductores e infractores, en concordancia con lo dispuesto por el presente código. Inciso declarado EXEQUIBLE por la\nCorte Constitucional mediante Sentencia C-530 de 2003, en el entendido, que sólo se puede culminar la actuación, cuando la administración\nhaya agotado todos los medios a su alcance para hacer comparecer al citado y, cuando el propietario no coincida con el conductor, esa citación",
+      "[Ley 769 de 2002, Art. 135] ARTÍCULO 135. PROCEDIMIENTO. Modificado por el art. 22, Ley 1383 de 2010. Ante la comisión de una contravención, la autoridad de tránsito\ndebe seguir el procedimiento siguiente para imponer el comparendo:\nOrdenará detener la marcha del vehículo y le extenderá al conductor la orden de comparendo en la que ordenará al infractor presentarse ante la\nautoridad de tránsito competente dentro de los tres (3) días hábiles siguientes. Al conductor se le entregará copia de la orden de comparendo.\nSi el contraventor no compareciere sin justa causa comprobada en este tiempo, la multa será aumentada hasta por el doble de su valor, en cuyo\ncaso deberá presentarse dentro de los diez (10) días siguientes a la fecha de la infracción\nTexto subrayado declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-530 de 2003, bajo el entendido de que este aparte\ntambién es aplicable a los conductores de vehículos de servicio público.\nLa orden de comparendo deberá estar firmada por el conductor, siempre y cuando ello sea posible. Si el conductor se niega a firmar o a",
+      "[Ley 769 de 2002, Art. 129] ARTÍCULO 129. DE LOS INFORMES DE TRÁNSITO. Los informes de las autoridades de tránsito por las infracciones prevista s en este código, a\ntravés de la imposición de comparendo, deberán indicar el número de la licencia de conducción, el nombre, teléfono y dirección del presunto\ninculpado y el nombre y número de placa del agente que lo realiza. En el caso de no poder indicar el número de licencia de conducción del\ninfractor, el funcionario deberá aportar pruebas objetivas que sustenten el informe o la infracción, intentando la notificación al conductor; si no\nfuere viable identificarlo, se notificará al último propietario registrado del vehículo, para que rinda sus descargos dentro de los siguientes diez\n(10) días al recibo de la notificación, en caso de no concurrir se impondrá la sanción al propietario registrado del vehículo. Texto subrayado\ndeclarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-530 de 2003 y el texto en cursiva declarado EXEQUIBLE en la misma\nsentencia, en el entendido, que el propietario sólo será llamado a descargos, cuando existan elementos probatorios que permitan inferir que\nprobablemente es el responsable de la infracción."
+    ],
+    "articulos_recuperados": [
+      "129",
+      "135",
+      "136",
+      "137",
+      "139"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario pregunta sobre la forma en que se notifican las providencias dictadas dentro del proceso de tránsito.",
+      "causal_reportada": "Consulta sobre normativa de tránsito.",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "La notificación de las providencias que se dicten dentro del proceso se hará en estrados (Ley 769 de 2002, Art. 139).",
+      "recomendaciones": [
+        "Consulta directamente con el organismo de tránsito competente si requieres verificar el estado actual de un proceso específico y sus respectivas notificaciones."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "12": {
+    "id": 12,
+    "tipo": "dentro_corpus",
+    "pregunta": "¿Cuál es la velocidad máxima permitida en las vías urbanas?",
+    "ground_truth": "En las vías urbanas las velocidades máximas y mínimas las determina y señaliza la autoridad de tránsito competente del distrito o municipio, y en ningún caso pueden sobrepasar los cincuenta (50) kilómetros por hora. En zonas escolares y residenciales la velocidad es de hasta treinta (30) kilómetros por hora.",
+    "articulos_esperados": [
+      "106"
+    ],
+    "respuesta": "En las vias urbanas las velocidades maximas y minimas para vehiculos de servicio publico o particular seran determinadas y debidamente señalizadas por la autoridad de Transito competente en el distrito o municipio respectivo, sin que en ningun caso pueda sobrepasar los cincuenta (50) kilometros por hora, mientras que en zonas escolares y residenciales sera hasta de treinta (30) kilometros por hora (Ley 769 de 2002, Art. 106).",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 106] ARTÍCULO 106.LÍMITES DE VELOCIDAD EN VÍAS URBANAS Y CARRETERAS MUNICIPALES. En las vías urbanas las velocidades máximas y mínimas\npara vehículos de servicio público o particular será determinada y debidamente señalizada por la autoridad de Tránsito competente en el distrito\no municipio respectivo. En ningún caso podrá sobrepasar los cincuenta (50) kilómetros por hora. La velocidad en zonas escolares y en zonas\nDepartamento Administrativo de la Función Pública\nLey 769 de 2002 33 EVA - Gestor Normativo\nresidenciales será hasta de treinta (30) kilómetros por hora. ¿\nPÁRAGRAFO 1. Las patinetas y bicicletas eléctricas o a gasolina no podrán sobrepasar los 40Km/h.\nPÁRAGRAFO 2. Excepcionalmente y teniendo en cuenta lo establecido el estudio técnico, diseño de la infraestructura y lo dispuesto en la\n\"Metodología para establecer la velocidad limite en las vías colombianas\" que expidan el Ministerio de Transporte y la Agencia Nacional de\nSeguridad Vial, en función del contexto, tipo de vía, funcionalidad, las características operacionales de la infraestructura vial y demás criterios en",
+      "[Ley 769 de 2002, Art. 107] ARTÍCULO 107.LÍMITES DE VELOCIDAD EN CARRETERAS NACIONALES Y DEPARTAMENTALES. En las carreteras nacionales y departar1entales las\nvelocidades autorizadas para vehículos públicos o privados serán determinadas por el Ministerio de Transporte o la Gobernación, según sea el\ncaso, teniendo en cuenta las especificaciones de la vía. En ningún caso podrá sobrepasar los noventa (90) kilómetros por hora. Para el caso de\nvías doble calzada que no contengan dentro de su diseño pasos peatonales, la velocidad máxima será de 120 kilómetros por hora.\nPara el servicio público de carga, el límite de velocidad en ningún caso podrá exceder los ochenta (80) kilómetros por hora.\nSerá obligación de las autoridades mencionadas, la debida señalización de estas restricciones.",
+      "[Ley 769 de 2002, Art. 95] PARÁGRAFO 1. Los Alcaldes Municipales podrán restringir temporalmente los días domingos y festivos, el tránsito de todo tipo de vehículo\nautomotor por las vías locales y nacionales o departamentales que pasen por su jurisdicción, a efectos de promover la práctica de actividades\ndeportivas tales como el ciclismo, el atletismo, el patinaje, las caminatas y similares, así como, la recreación y el esparcimiento de los habitantes\nde su jurisdicción, siempre y cuando haya una vía alterna por donde dichos vehículos puedan hacer su tránsito normal. PARÁGRAFO 2. La\nvelocidad máxima de operación en las vías mientras se realicen actividades deportivas, lúdicas y, o recreativas será de 25 km/h. (Modificado por\nel art 9 de la Ley 1811 de 2016)",
+      "[Ley 769 de 2002, Art. 107] PARÁGRAFO 1. La entidad encargada de fijar la velocidad máxima y mínima, en las zonas urbanas señaladas en el artículo 106 y en las\ncarreteras nacionales y departamentales estipuladas en el presente artículo, debe establecer los límites de velocidad de forma sectorizada,\nrazonable, apropiada y coherente con el tráfico vehicular, las condiciones del medio ambiente, la infraestructura vial, el estado de las vías,\nvisibilidad, las especificaciones de la vía, su velocidad de diseño, las características de operación de .la vía, los usuarios vulnerables, el uso del\nsuelo y, el número de muertos y lesionados.\nPÁRAGRAFO 2. Excepcionalmente y teniendo en cuenta lo establecido el estudio técnico, diseño de la infraestructura y lo dispuesto en la\n\"Metodología para establecer la velocidad limite en las vías colombianas\" que expidan el Ministerio de Transporte y la Agencia Nacional de\nSeguridad Vial, en función del contexto, tipo de vía, funcionalidad, las características operacionales de la infraestructura vial y demás criterios en\nel marco del enfoque de sistema seguro, que propendan por una movilidad eficiente y la protección de la vida de todos los actores viales. Los",
+      "[Ley 769 de 2002, Art. 106] Seguridad Vial, en función del contexto, tipo de vía, funcionalidad, las características operacionales de la infraestructura vial y demás criterios en\nel marco del enfoque de sistema seguro, que propendan por una movilidad eficiente y la protección de la vida de todos los actores viales. Los\ntramos viales en los que se presenten condiciones idóneas de infraestructura y seguridad vial, las entidades territoriales, estarán facultadas, en\nel marco de su jurisdicción territorial de establecer límites de velocidad superiores a los establecidos en este artículo.\n(Modificado por el Art. 12 de la Ley 2251 de 2022)\n*jurisprudencia*\nModificado por el art. 1, Ley 1239 de 2008\nModificado por el art. 1, Decreto Nacional 15 de 2011\nNOTA: El Decreto Nacional 15 de 2011 fue declarado Inexequible mediante Sentencia de la Corte Constitucional C-219 de 2011."
+    ],
+    "articulos_recuperados": [
+      "106",
+      "107",
+      "95"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario pregunta por la velocidad maxima permitida en las vias urbanas.",
+      "causal_reportada": "Consulta sobre limites de velocidad urbanos.",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "En las vias urbanas las velocidades maximas y minimas para vehiculos de servicio publico o particular seran determinadas y debidamente señalizadas por la autoridad de Transito competente en el distrito o municipio respectivo, sin que en ningun caso pueda sobrepasar los cincuenta (50) kilometros por hora, mientras que en zonas escolares y residenciales sera hasta de treinta (30) kilometros por hora (Ley 769 de 2002, Art. 106).",
+      "recomendaciones": [
+        "Verifica siempre la señalizacion de transito local, ya que la autoridad competente establece los limites especificos para cada via dentro de los topes legales."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "13": {
+    "id": 13,
+    "tipo": "dentro_corpus",
+    "pregunta": "¿En qué consiste la inmovilización de un vehículo?",
+    "ground_truth": "La inmovilización consiste en suspender temporalmente la circulación del vehículo por las vías públicas o privadas abiertas al público. El vehículo es conducido a parqueaderos autorizados que determine la autoridad competente, hasta que se subsane o cese la causa que le dio origen, a menos que sea subsanable en el sitio donde se detectó la infracción.",
+    "articulos_esperados": [
+      "125"
+    ],
+    "respuesta": "La inmovilización consiste en suspender temporalmente la circulación del vehículo por las vías públicas o privadas abiertas al público, conduciéndolo a parqueaderos autorizados hasta que se subsane o cese la causa que le dio origen, a menos que sea subsanable en el sitio donde se detectó la infracción (Ley 769 de 2002, Art. 125).",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 125] ARTÍCULO 125. INMOVILIZACIÓN. La inmovilización en los casos a que se refiere este código, consiste en suspender temporalmente la circulación\ndel vehículo por las vías públicas o privadas abiertas al público. Para tal efecto, el vehículo será conducido a parqueaderos autorizados que\ndetermine la autoridad competente, hasta que se subsane o cese la causa que le dio origen, a menos que sea subsanable en el sitio que se\ndetectó la infracción.",
+      "[Ley 769 de 2002, Art. 125] PARÁGRAFO 4. En el caso de inmovilización de vehículos de servicio público, la empresa transportadora responderá como deudor solidario de las\nobligaciones que se contraigan, entre ellas las derivadas de la prestación del servicio de grúa y parqueaderos.\nLa inmovilización o retención a que hacen referencia las normas de transporte se regirán por el procedimiento establecido en este artículo.\nPARÁGRAFO 5. Cuando el vehículo no sea llevado a parqueaderos autorizados la inmovilización se hará bajo la responsabilidad del propietario\ndel vehículo o del infractor, para lo cual, el agente de tránsito notificará al propietario o administrador del parqueadero autorizado.\nPARÁGRAFO 6. El propietario del vehículo será el responsable del pago al administrador o al propietario del parqueadero por el tiempo que\nestuvo inmovilizado el vehículo. Ver los arts. 65, 66 y 67 de la Ley 962 de 2005\nPARÁGRAFO 7. Los parqueaderos autorizados deben ser aprobados por el organismo de tránsito correspondiente en resolución que determinará\nlo atinente.",
+      "[Ley 769 de 2002, Art. 127] PARÁGRAFO 3. Los municipios y los organismos de tránsito por sí mismos o a través de un tercero podrán contratar el programa de bloqueo de\nvehículos a través de los llamados Cepos u otras tecnologías que cumplan con la misma finalidad. Este equipo deberá ser implementado con\napoyo de los autoridades de control y aplicado sobre aquellas conductas que ameritan inmovilización.\nEl bloqueo del vehículo que incurra en una conducta que amerita la inmovilización, se podrá realizar con el Cepo u otras tecnologías que\ncumplan con la misma finalidad, previa suscripción de la orden u órdenes de comparendo, según sea el caso.\nEl retiro del equipo de bloqueo será efectivo hasta que el propietario, poseedor o tenedor del vehículo subsane la falta y realice el curso de\nrehabilitación a infractores de las normas de tránsito.\nLa Superintendencia de transporte vigilará lo correspondiente a los cobros por el retiro del equipo de bloqueo.\n(Parágrafo ADICIONADO por el Art. 5 de la Ley 2283 de 2023)",
+      "[Ley 769 de 2002, Art. 167] ARTÍCULO 167. VEHÍCULOS INMOVILIZADOS POR ORDEN JUDICIAL. Los vehículos que sean inmovilizados por orden judicial deberán llevarse a\nparqueaderos cuya responsabilidad será de la Dirección Ejecutiva de la Rama Judicial. Las autoridades de tránsito no podrán inmovilizar en los\nparqueaderos autorizados, vehículos por acciones presuntamente delictuosas.\n(Este artículo fue derogado por la Ley 1955 de 2019, por la cual se expide el Plan Nacional de Desarrollo)",
+      "[Ley 769 de 2002, Art. 125] PARÁGRAFO 1. El propietario o administrador del parqueadero autorizado utilizado para este fin, que permita la salida de un vehículo\ninmovilizado por infracción de las normas de tránsito, sin orden de la autoridad competente, incurrirá en multa de cincuenta (50) salarios\nmínimos legales mensuales vigentes. Si se tratare de parqueadero autorizado no oficial, incurrirá además en suspensión o cancelación de la\nautorización del patio, parqueadero autorizado de acuerdo con la gravedad de la falta.\nEn todo caso, el ingreso del vehículo al lugar de inmovilización deberá hacerse previo inventario de los elementos contenidos en él y descripción\ndel estado exterior. Este mismo procedimiento se hará a la salida del vehículo. En caso de diferencias entre el inventario de recibo y el de\nentrega, el propietario o administrador del parqueadero autorizado incurrirá en multa de veinte (20) salarios mínimos legales mensuales\nvigentes y, adicionalmente, deberá responder por los elementos extraviados, dañados o averiados del vehículo."
+    ],
+    "articulos_recuperados": [
+      "125",
+      "127",
+      "167"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario pregunta en qué consiste la inmovilización de un vehículo.",
+      "causal_reportada": "No aplica.",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "La inmovilización consiste en suspender temporalmente la circulación del vehículo por las vías públicas o privadas abiertas al público, conduciéndolo a parqueaderos autorizados hasta que se subsane o cese la causa que le dio origen, a menos que sea subsanable en el sitio donde se detectó la infracción (Ley 769 de 2002, Art. 125).",
+      "recomendaciones": [
+        "Consulta el Código Nacional de Tránsito (Ley 769 de 2002) para conocer las conductas específicas que dan lugar a la inmovilización.",
+        "Verifica los procedimientos de inventario y retiro de patios autorizados en caso de que tu vehículo sea inmovilizado."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "14": {
+    "id": 14,
+    "tipo": "dentro_corpus",
+    "pregunta": "¿Qué sanción se impone, además de la multa, a quien conduce en segundo grado de embriaguez?",
+    "ground_truth": "En el segundo grado de embriaguez, adicionalmente a la multa, se decreta la suspensión de la licencia de conducción entre dos (2) y tres (3) años y la obligación de prestar servicios comunitarios gratuitos por veinte (20) horas en los establecimientos que determine la autoridad de tránsito.",
+    "articulos_esperados": [
+      "152"
+    ],
+    "respuesta": "Conforme al texto consultado, en un segundo grado de embriaguez se decreta la suspensión de la licencia de conducción entre dos (2) y tres (3) años, y la obligación de prestar servicios gratuitos comunitarios en establecimientos que determine la autoridad de tránsito por veinte (20) horas (Ley 769 de 2002, Art. 152).",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 152] ARTÍCULO 152. GRADO DE ALCOHOLEMIA. Modificado por el art. 25, Ley 1383 de 2010, Modificado por el art. 1, Ley 1548 de 2012, Modificado\npor el art. 5, Ley 1696 de 2013. En un término no superior a 30 días contados a partir de la expedición de la presente ley, el Instituto Nacional de\nMedicina Legal y Ciencias Forenses mediante resolución establecerá los límites de los diferentes grados de estado de embriaguez.\nSi hecha la prueba de alcoholemia se establece:\nSegundo grado de embriaguez, adicionalmente a la sanción multa, se decretará la suspensión de la licencia de conducción entre dos (2) y tres\n(3) años, y la obligación de prestar servicios gratuitos comunitarios en establecimientos que determine la autoridad de tránsito por veinte (20)\nhoras.\nTercer grado y se decretará, a más de la sanción de multa, la suspensión entre tres (2) y diez (10) años de la licencia de conducción, y la\nobligación de prestar servicios gratuitos comunitarios en establecimientos que determine la autoridad de tránsito por cuarenta (40) horas.\nSerá criterio para fijar esta sanción, la reincidencia, haber causado daño a personas o cosas a causa de la embriaguez o haber intentado darse a\nla fuga.",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: D. Será sancionado con multa equivalente a treinta (30) salarios mínimos legales diarios vigentes, el conductor de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nConducir en estado de embriaguez, o bajo los efectos de sustancias alucinógenas. Al infractor se le suspenderá la licencia de conducción de\nocho (8) meses a un (1) año. Si se trata de conductor de vehículos de servicio público, de transporte escolar o de instructor de conducción, la\nmulta pecuniaria será del doble indicado para ambas infracciones, se aumentará el período de suspensión de la licencia de conducción uno (1) a\ndos (2) años y se inmovilizará el vehículo. En todos los casos de embriaguez, el vehículo será inmovilizado y el estado de embriaguez o\nalcoholemia se determinará mediante una prueba que no cause lesión, la cual será determinada por el Instituto de Medicina Legal y Ciencias\nForenses.\nDepartamento Administrativo de la Función Pública\nLey 769 de 2002 46 EVA - Gestor Normativo\nConducir un vehículo sobre aceras, plazas, vías peatonales, separadores, bermas, demarcaciones de canalización, zonas verdes o vías\nespeciales para vehículos no motorizados.\nAdelantar a otro vehículo en berma, túnel, puente, curva, pasos a nivel y cruces no regulados o al aproximarse a la cima de una cuesta o donde\nla señal de tránsito correspondiente lo indique.",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: D. Será sancionado con multa equivalente a treinta (30) salarios mínimos legales diarios vigentes (smldv) el conductor y/o propietario de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nestablecido en el artículo 152 de este código. Si se trata de conductores de vehículos de servicio público, de transporte escolar o de instructor de\nconducción, la multa pecuniaria y el período de suspensión de la licencia se duplicarán. En todos los casos de embriaguez el vehículo será\ninmovilizado y el estado de embriaguez o alcoholemia se establecerá mediante una prueba que no cause lesión, la cual será determinada por el\nInstituto de Medicina Legal y Ciencias Forenses.\nE.4. Transportar en el mismo vehículo y al mismo tiempo personas y sustancias peligrosas como explosivos, tóxicos, radiactivos, combustibles\nno autorizados, etc. En estos casos se suspenderá la licencia por un (1) año y por dos (2) años cada vez que reincida. El vehículo será\ninmovilizado por un (1) año cada vez.\nF. Adicionado por el art. 4, Ley 1696 de 2013.\nTexto anterior\nLos infractores de las normas de tránsito pagarán multas liquidadas en salarios mínimos legales diarios vigentes así:\nA. Será sancionado con multa equivalente a cuatro (4) salarios mínimos legales diarios vigentes, el conductor de un vehículo no automotor o de\ntracción animal que incurra en cualquiera de las siguientes infracciones:",
+      "[Ley 769 de 2002, Art. 152] PARÁGRAFO. La reincidencia en un tercer grado de embriaguez, será causal para determinar la cancelación definitiva de la licencia de\nconducción.",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: C. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes, el conductor de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nUsar sistemas móviles de comunicación o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con\naccesorios o equipos auxiliares que permitan tener las manos libres.\nD. Será sancionado con multa equivalente a treinta (30) salarios mínimos legales diarios vigentes, el conductor de un vehículo automotor que\nincurra en cualquiera de las siguientes infracciones:\nGuiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos,\nhasta que éste sea retirado por una persona autorizada por el infractor con licencia de conducción.\nConducir sin portar los seguros ordenados por la ley. Además, el vehículo será inmovilizado.\nTransitar en sentido contrario al estipulado para la vía, calzada o carril.\nNo detenerse ante una luz roja o amarilla de semáforo, una señal de \"PARE\" o un semáforo intermitente en rojo.\nConducir en estado de embriaguez, o bajo los efectos de sustancias alucinógenas. Al infractor se le suspenderá la licencia de conducción de"
+    ],
+    "articulos_recuperados": [
+      "131",
+      "152"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario consulta sobre las sanciones adicionales a la multa para la conducción en segundo grado de embriaguez.",
+      "causal_reportada": "Conducir en estado de embriaguez (segundo grado).",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "Conforme al texto consultado, en un segundo grado de embriaguez se decreta la suspensión de la licencia de conducción entre dos (2) y tres (3) años, y la obligación de prestar servicios gratuitos comunitarios en establecimientos que determine la autoridad de tránsito por veinte (20) horas (Ley 769 de 2002, Art. 152).",
+      "recomendaciones": [
+        "Evita conducir bajo los efectos del alcohol para proteger tu seguridad y la de los demás.",
+        "Consulta directamente con el organismo de tránsito competente si requieres verificar detalles de un procedimiento específico."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "15": {
+    "id": 15,
+    "tipo": "dentro_corpus",
+    "pregunta": "¿Qué obligaciones tienen los motociclistas respecto al casco y a las luces?",
+    "ground_truth": "El conductor y el acompañante de una motocicleta deben portar siempre el casco de seguridad, conforme a la reglamentación del Ministerio de Transporte; el acompañante también debe usar la prenda reflectiva exigida al conductor. Además, mientras transiten por vías de uso público deben hacerlo con las luces delanteras y traseras encendidas.",
+    "articulos_esperados": [
+      "96"
+    ],
+    "respuesta": "Conforme a los fragmentos normativos consultados, los motociclistas tienen obligaciones especificas sobre el casco y las luces: tanto el conductor como el acompañante deben portar casco de seguridad conforme a la reglamentación (Ley 769 de 2002, Art. 96), y las motocicletas deben transitar todo el tiempo con las luces delanteras y traseras encendidas en vías de uso público (Ley 769 de 2002, Art. 96). La base consultada no precisa otros detalles adicionales fuera de estos puntos.",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 96] ARTÍCULO 96. Normas específicas para motocicletas, motociclos y mototriciclos. Las motocicletas se sujetarán a las siguientes normas\nespecíficas:\nDepartamento Administrativo de la Función Pública\nLey 769 de 2002 30 EVA - Gestor Normativo\n1. Deben transitar ocupando un carril, observando lo dispuesto en los artículos 60 y 68 del Presente Código.\n2. Podrán llevar un acompañante en su vehículo, el cual también deberá utilizar casco y la prenda reflectiva exigida para el conductor.\n3.Deberán usar de acuerdo con lo estipulado para vehículos automotores, las luces direccionales. De igual forma utilizar, en todo momento, los\nespejos retrovisores.\n4. Todo el tiempo que transiten por las vías de uso público, deberán hacerlo con las luces delanteras y traseras encendidas.\n5. El conductor y el acompañante deberán portar siempre el casco de seguridad, conforme a la reglamentación que expida el Ministerio de\nTransporte. En todo caso, no se podrá exigir que el casco contenga el número de placa correspondiente al del vehículo en que se moviliza.\n6. No se podrán transportar objetos que disminuyan la visibilidad, que incomoden al conductor o acompañante o que ofrezcan peligro para los",
+      "[Ley 769 de 2002, Art. 94] prohíban. Deben conducir en las vías públicas permitidas o, donde existan, en aquellas especialmente diseñadas para ello.\nDeben respetar las señales, normas de tránsito y límites de velocidad.\nNo deben adelantar a otros vehículos por la derecha o entre vehículos que transiten por sus respectivos carriles. Siempre utilizarán el carril libre\na la izquierda del vehículo a sobrepasar.\nDeben usar las señales manuales detalladas en el artículo 69 de este código.\nReglamentado por la Resolución del Min. Transporte 1737 de 2004. Los conductores y los acompañantes cuando hubieren, deberán utilizar casco\nde seguridad, de acuerdo como fije el Ministerio de Transporte.\nLa no utilización del casco de seguridad cuando corresponda dará lugar a la inmovilización del vehículo.",
+      "[Ley 769 de 2002, Art. 94] ARTÍCULO 94. NORMAS GENERALES PARA BICICLETAS, TRICICLOS, MOTOCICLETAS, MOTOCICLOS Y MOTOTRICICLOS. Los conductores de\nbicicletas, triciclos, motocicletas, motociclos y mototriciclos, estarán sujetos a las siguientes normas:\nDeben transitar por la derecha de las vías a distancia no mayor de un (1) metro de la acera u orilla y nunca utilizar las vías exclusivas para\nservicio público colectivo.\nLos conductores de estos tipos de vehículos y sus acompañantes deben vestir chalecos o chaquetas reflectivas de identificación que deben ser\nvisibles cuando se conduzca entre las 18:00 y las 6:00 horas del día siguiente, y siempre que la visibilidad sea escasa.\nLos conductores que transiten en grupo lo harán uno detrás de otro.\nNo deben sujetarse de otro vehículo o viajar cerca de otro carruaje de mayor tamaño que lo oculte de la vista de los conductores que transiten\nen sentido contrario.\nNo deben transitar sobre las aceras, lugares destinados al tránsito de peatones y por aquellas vías en donde las autoridades competentes lo\nprohíban. Deben conducir en las vías públicas permitidas o, donde existan, en aquellas especialmente diseñadas para ello.",
+      "[Ley 769 de 2002, Art. 86] ARTÍCULO 86. DE LAS LUCES EXTERIORES. Todo vehículo automotor deberá tener encendidas las luces exteriores a partir de las dieciocho (18)\nhoras hasta las seis (6) horas del día siguiente, y cuando las condiciones de visibilidad sean adversas. Sin embargo, las autoridades de tránsito\npodrán fijar horarios de excepción. Ver Resolución del Min. Transporte 2730 de 2004\nDentro del perímetro urbano se usará la luz media, y se podrá hacer uso de luces exploradoras orientados sólo hacia la superficie de la vía,\ncuando éstas estén colocadas por debajo de las defensas del vehículo o cuando se trate de unidades integradas por el fabricante en el conjunto\nde luces frontales del vehículo. Fuera del perímetro urbano, podrá usarse la luz plena o alta, excepto cuando se aproxime un vehículo en sentido\ncontrario o cuando la autoridad lo indique mediante la señal de tránsito correspondiente, o cuando la luz plena alcance un vehículo que transite\nadelante y pueda perturbar su conducción.",
+      "[Ley 769 de 2002, Art. 2] Casco: Pieza que cubre la cabeza, especialmente diseñada para proteger contra golpes, sin impedir la visión periférica adecuada que cumpla con\nlas especificaciones de las normas Icontec 4533 \"Cascos Protectores para Usuarios de Vehículos\", o la norma que la modifique o sustituya.\nDepartamento Administrativo de la Función Pública\nLey 769 de 2002 3 EVA - Gestor Normativo\nCentro de diagnóstico automotor: Ente estatal o privado destinado al examen técnico-mecánico de vehículos automotores y a la revisión del\ncontrol ecológico conforme a las normas ambientales.\nCentro de enseñanza para conductores: Establecimiento docente de naturaleza pública, privada o mixtos que tenga como actividad permanente\nla capacitación de personas que aspiran a conducir vehículos automotores y motocicletas.\nCentro de enseñanza para formación de instructores: Establecimiento docente de naturaleza pública, privada o mixta, que tenga como actividad\npermanente la formación de instructores en técnicas de conducción de vehículos automotores y motocicletas.\nCentro integral de atención: Establecimiento donde se prestará el servicio de escuela y casa cárcel para la rehabilitación de los infractores a las"
+    ],
+    "articulos_recuperados": [
+      "2",
+      "86",
+      "94",
+      "96"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario solicita informacion general sobre las obligaciones de los motociclistas respecto al uso del casco y las luces.",
+      "causal_reportada": "No aplica.",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "Conforme a los fragmentos normativos consultados, los motociclistas tienen obligaciones especificas sobre el casco y las luces: tanto el conductor como el acompañante deben portar casco de seguridad conforme a la reglamentación (Ley 769 de 2002, Art. 96), y las motocicletas deben transitar todo el tiempo con las luces delanteras y traseras encendidas en vías de uso público (Ley 769 de 2002, Art. 96). La base consultada no precisa otros detalles adicionales fuera de estos puntos.",
+      "recomendaciones": [
+        "Asegurate de que tanto tu como tu acompañante usen casco de seguridad reglamentario en todo momento.",
+        "Verifica que las luces delanteras y traseras de tu motocicleta permanezcan encendidas durante todo el recorrido en vias publicas."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "16": {
+    "id": 16,
+    "tipo": "dentro_corpus",
+    "pregunta": "¿Qué seguro necesita un vehículo para poder transitar en Colombia?",
+    "ground_truth": "Para transitar en el territorio nacional todos los vehículos deben estar amparados por un seguro obligatorio vigente, el Seguro Obligatorio de Accidentes de Tránsito (SOAT).",
+    "articulos_esperados": [
+      "42"
+    ],
+    "respuesta": "Para poder transitar en el territorio nacional todos los vehiculos deben estar amparados por un seguro obligatorio vigente, el cual corresponde al Seguro Obligatorio de Accidentes de Transito (SOAT), de acuerdo con la (Ley 769 de 2002, Art. 42). Asimismo, los Centros de Diagnostico Automotor (CDA) deben tomar un seguro obligatorio individual de responsabilidad civil para vehiculos de servicio particular que ampare danos materiales a terceros (Ley 769 de 2002, Art. 53).",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 42] ARTÍCULO 42. SEGUROS OBLIGATORIOS. Para poder transitar en el territorio nacional todos los vehículos deben estar amparados por un seguro\nobligatorio vigente. El Seguro Obligatorio de Accidentes de Tránsito, SOAT, se regirá por las normas actualmente vigentes o aquellas que la\nmodifiquen o sustituyan.",
+      "[Ley 769 de 2002, Art. 53] PARÁGRAFO 1. Quien no cuente con certificado vigente incurrirá en las sanciones previstas en la ley. Para todos los efectos este será\nconsiderado como documento público.\nPARÁGRAFO 2. Los Centros de Diagnóstico Automotor (CDA) deberán tomar, con una entidad aseguradora legalmente establecida en Colombia y\ncon libertad de oferta, un seguro obligatorio individual de responsabilidad civil para vehículos de servicio particular, que ampare los daños\nmateriales causados a terceros, sin cargo o sobrecosto paro el usuario, por la vigencia de cada uno de los certificados emitidos.\nEste seguro deberá tener un valor asegurado mínimo de quince salarios mínimos legales mensuales vigentes (15 SMLMV) para vehículos de\nservicio particular y siete salarios mínimos legales mensuales vigentes (7 SMLMV) para motocicletas y similares.\nEn el Registro Único Nacional de Transito (RUNT) se registrará la información sobre los seguros obligatorios vigentes y los siniestros.\nLos Centros de Diagnóstico Automotor (CDA) tienen la obligación de garantizar que en cada uno de sus establecimientos se ofrezcan los seguros\nobligatorios previstos en esta Ley.\n(Parágrafo ADICIONADO por el Art. 6 de la Ley 2283 de 2023)",
+      "[Ley 769 de 2002, Art. 41] ARTÍCULO 41. VEHÍCULOS EXTRANJEROS. Los vehículos registrados legalmente en otros países, que se encuentren en el territorio nacional,\npodrán transitar durante el tiempo autorizado por el Ministerio de Relaciones Exteriores y por la Dirección de Impuestos y Aduanas Nacionales,\nteniendo en cuenta los convenios internacionales y la Ley de fronteras sobre la materia.\nEl Gobierno Nacional reglamentará el servicio público de transporte en la zona de frontera.\nSEGUROS Y RESPONSABILIDAD.\nVer Fallo del Consejo de Estado 12789 de 2002",
+      "[Ley 769 de 2002, Art. 34] ARTÍCULO 34. PORTE. En ningún caso podrá circular un vehículo automotor sin portar la licencia de tránsito correspondiente.\nVer Resolución Min. Transporte 7100 de 2002",
+      "[Ley 769 de 2002, Art. 42] PARÁGRAFO 1. Los propietarios de los vehículos que registren un buen comportamiento vial par no reportar siniestros que afecten la póliza del\nSegura Obligatorio de Accidentes de Tránsito (SOAT), y haber renovado su póliza de manera oportuna, definida coma la renovación de la póliza-\nantes de su vencimiento, tendrán derecho a la disminución en el valor del Segura Obligatorio de Acuciantes de Tránsito (SOAT), así:\nSi en los dos años inmediatamente anteriores al vencimiento de la póliza, registra un buen comportamiento vial; tendrán derecho a un\ndescuento, por única vez, del diez por ciento (10%) sobre el valor de la prima emitida del Seguro Obligatorio Accidente de Tránsito (SOAT). Esta\nmedida será aplicable para aquellos propietarios de vehículos que hayan tenido un buen comportamiento durante los años 2020 y 2021, con lo\ncual se aplicara el descuento a la prima que aplique durante 2022, y de ninguna manera afectara el valor de la contribución a la ADRES, que se\ncalculará sobre el valor de Ia prima fijado por Ia Superintendencia Financiera de Colombia."
+    ],
+    "articulos_recuperados": [
+      "34",
+      "41",
+      "42",
+      "53"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario consulta sobre el seguro obligatorio necesario para que un vehiculo pueda transitar en Colombia.",
+      "causal_reportada": "Consulta general sobre seguros.",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "Para poder transitar en el territorio nacional todos los vehiculos deben estar amparados por un seguro obligatorio vigente, el cual corresponde al Seguro Obligatorio de Accidentes de Transito (SOAT), de acuerdo con la (Ley 769 de 2002, Art. 42). Asimismo, los Centros de Diagnostico Automotor (CDA) deben tomar un seguro obligatorio individual de responsabilidad civil para vehiculos de servicio particular que ampare danos materiales a terceros (Ley 769 de 2002, Art. 53).",
+      "recomendaciones": [
+        "Verifica que el SOAT de tu vehiculo se encuentre vigente y registrado en el RUNT.",
+        "Consulta las normas vigentes aplicables a tu tipo de vehiculo ante el organismo de transito o una autoridad competente."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "17": {
+    "id": 17,
+    "tipo": "sin_respuesta_corpus",
+    "pregunta": "¿Cuántos salarios mínimos de multa corresponden por conducción temeraria según el Código Nacional de Tránsito?",
+    "ground_truth": "La base normativa consultada (Ley 769 de 2002) no establece una multa específica para la 'conducción temeraria', por lo que no es posible determinar ese valor con esta información. Se debe verificar con el organismo de tránsito competente o con un abogado.",
+    "articulos_esperados": [],
+    "respuesta": "Conforme al contexto normativo de la Ley 769 de 2002, Art. 131, la infracción por conducir realizando maniobras altamente peligrosas e irresponsables que pongan en peligro a las personas o las cosas pertenece al grupo D, el cual es sancionado con una multa equivalente a treinta (30) salarios mínimos legales diarios vigentes (SMLDV).",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: D. Será sancionado con multa equivalente a treinta (30) salarios mínimos legales diarios vigentes (smldv) el conductor y/o propietario de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nestablecido en el artículo 152 de este código. Si se trata de conductores de vehículos de servicio público, de transporte escolar o de instructor de\nconducción, la multa pecuniaria y el período de suspensión de la licencia se duplicarán. En todos los casos de embriaguez el vehículo será\ninmovilizado y el estado de embriaguez o alcoholemia se establecerá mediante una prueba que no cause lesión, la cual será determinada por el\nInstituto de Medicina Legal y Ciencias Forenses.\nE.4. Transportar en el mismo vehículo y al mismo tiempo personas y sustancias peligrosas como explosivos, tóxicos, radiactivos, combustibles\nno autorizados, etc. En estos casos se suspenderá la licencia por un (1) año y por dos (2) años cada vez que reincida. El vehículo será\ninmovilizado por un (1) año cada vez.\nF. Adicionado por el art. 4, Ley 1696 de 2013.\nTexto anterior\nLos infractores de las normas de tránsito pagarán multas liquidadas en salarios mínimos legales diarios vigentes así:\nA. Será sancionado con multa equivalente a cuatro (4) salarios mínimos legales diarios vigentes, el conductor de un vehículo no automotor o de\ntracción animal que incurra en cualquiera de las siguientes infracciones:",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: C. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes, el conductor de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nConducir un vehículo a velocidad superior a la máxima permitida.\nNo atender una señal de ceda el paso.\nNo acatar las señales o requerimientos impartidos por los agentes de tránsito.\nNo respetar el paso de peatones que cruzan una vía en sitio permitido para ellos o no darles la prelación en las franjas para ello establecidas.\nPoner un vehículo en marcha sin las precauciones para evitar choques.\nReparar un vehículo en las vías públicas, parque o acera, o hacerlo en caso de emergencia, sin atender el procedimiento señalado en este\ncódigo.\nNo realizar la revisión técnico-mecánica en el plazo legal establecido o cuando el vehículo no se encuentre en adecuadas condiciones técnico-\nmecánicas o de emisión de gases, aun cuando porte los certificados correspondientes.\nTransportar carga en contenedores sin los dispositivos especiales de sujeción. El vehículo será inmovilizado.\nTransportar pasajeros en el platón de una camioneta picó o en la plataforma de un vehículo de carga, trátese de furgón o plataforma de estacas.\nUsar sistemas móviles de comunicación o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: C. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes (SMLDV) el conductor y/o propietario de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nC.29. Conducir un vehículo a velocidad superior a la máxima permitida.\nC.30. No atender una señal de ceda el paso.\nC.31. No acatar las señales o requerimientos impartidos por los agentes de tránsito.\nC.32. No respetar el paso de peatones que cruzan una vía en sitio permitido para ellos o no darles la prelación en las franjas para ello\nestablecidas.\nC.33. Poner un vehículo en marcha sin las precauciones para evitar choques.\nC.34. Reparar un vehículo en las vías públicas, parque o acera, o hacerlo en caso de emergencia, sin atender el procedimiento señalado en este\ncódigo.\nC.35. No realizar la revisión técnico-mecánica en el plazo legal establecido o cuando el vehículo no se encuentre en adecuadas condiciones\nDepartamento Administrativo de la Función Pública\nLey 769 de 2002 42 EVA - Gestor Normativo\ntécnico-mecánicas o de emisiones contaminantes, aun cuando porte los certificados correspondientes, además el vehículo será inmovilizado.\nC.36. Transportar carga en contenedores sin los dispositivos especiales de sujeción. El vehículo será inmovilizado.",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: C. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes, el conductor de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nTransitar, cuando hubiere más de un carril, por el carril izquierdo de la vía a velocidad que entorpezca el tránsito de los demás vehículos.\nTransitar en vehículos de 3.5 o más toneladas por el carril izquierdo de la vía cuando hubiere más de un carril.\nConducir un vehículo cuya carga o pasajeros obstruyan la visibilidad del conductor hacia el frente, atrás o costados, o impidan el control sobre el\nsistema de dirección, frenos o seguridad.\nProveer combustible a vehículos de servicio público con pasajeros a bordo. Adicionalmente, deberá ser suspendida la licencia de conducción por\nun término de seis (6) meses.\nNegarse a prestar el servicio público sin causa justificada. Si como consecuencia de la no prestación del servicio se ocasiona alteración del orden\npúblico, se suspenderá además la licencia de conducción hasta por el término de seis (6) meses.\nHacer uso de dispositivos propios de vehículos de emergencia, por parte de conductores de otro tipo de vehículos.\nConducir un vehículo a velocidad superior a la máxima permitida.\nNo atender una señal de ceda el paso.\nNo acatar las señales o requerimientos impartidos por los agentes de tránsito.",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: D. Será sancionado con multa equivalente a treinta (30) salarios mínimos legales diarios vigentes, el conductor de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nAdelantar a otro vehículo en berma, túnel, puente, curva, pasos a nivel y cruces no regulados o al aproximarse a la cima de una cuesta o donde\nla señal de tránsito correspondiente lo indique.\nConducir realizando maniobras altamente peligrosas e irresponsables que pongan en peligro a las personas o las cosas. Texto subrayado\ndeclarado EXEQUIBLE por la Corte Constitucional mediante\nSentencia de la Corte Constitucional C-530 de 2003, en el entendido que debe tratarse de maniobras que violen las normas de tránsito, que\npongan en peligro a las personas o a las cosas, y que constituyan conductas dolosas o altamente imprudentes. Conducir un vehículo sin luces o\nsin los dispositivos luminosos de posición, direccionales o de freno, o con alguna de ellas dañada, en las horas o circunstancias en que lo exige\neste código. Además, el vehículo será inmovilizado, cuando no le funcionen dos (2) o más de estas luces.\nNo permitir el paso de los vehículos de emergencia.\nConducir un vehículo para transporte escolar con exceso de velocidad.\nPermitir el servicio público de pasajeros que no tenga las salidas de emergencia exigidas. En este caso, la multa se impondrá solidariamente a la"
+    ],
+    "articulos_recuperados": [
+      "131"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario consulta el valor de la multa por conducción temeraria (maniobras altamente peligrosas e irresponsables) según el Código Nacional de Tránsito.",
+      "causal_reportada": "Conducir realizando maniobras altamente peligrosas e irresponsables",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "Conforme al contexto normativo de la Ley 769 de 2002, Art. 131, la infracción por conducir realizando maniobras altamente peligrosas e irresponsables que pongan en peligro a las personas o las cosas pertenece al grupo D, el cual es sancionado con una multa equivalente a treinta (30) salarios mínimos legales diarios vigentes (SMLDV).",
+      "recomendaciones": [
+        "Verifica directamente en el texto oficial del Código Nacional de Tránsito o ante el organismo de tránsito cualquier actualización sobre el valor monetario exacto del SMLDV aplicable al año en curso."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "18": {
+    "id": 18,
+    "tipo": "sin_respuesta_corpus",
+    "pregunta": "¿Cuánto es en pesos colombianos la multa de 15 SMLDV hoy?",
+    "ground_truth": "La base normativa consultada solo expresa las multas en salarios mínimos legales diarios vigentes (SMLDV) y no contiene el valor en pesos vigente del salario mínimo, por lo que no es posible calcular ese monto con esta información; se debe consultar el valor oficial vigente.",
+    "articulos_esperados": [],
+    "respuesta": "La base consultada en los fragmentos normativos establece las infracciones sancionadas con 15 SMLDV (como el artículo 131 de la Ley 769 de 2002), pero no precisa el valor monetario exacto en pesos ya que este cambia anualmente por decreto. La base consultada no lo precisa.",
+    "clasificacion": "consulta_general",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: C. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes (SMLDV) el conductor y/o propietario de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nde ella.\nC.10. Conducir un vehículo con una o varias puertas abiertas.\nC.11. No portar el equipo de prevención y seguridad establecido en este código o en la reglamentación correspondiente.\nC.12 Proveer de combustible un vehículo automotor con el motor encendido.\nC.12 A. No apagar el motor del vehículo para la inspección canina.(Numeral adicionado por el art 20 de la Ley 2454 de 2025)\nC.13 Conducir un vehículo automotor sin las adaptaciones pertinentes, cuando el conductor padece de limitación física.\nC.14 Transitar por sitios restringidos o en horas prohibidas por la autoridad competente. Además, el vehículo será inmovilizado.\nC.15 Conducir un vehículo, particular o de servicio público, excediendo la capacidad autorizada en la licencia de tránsito o tarjeta de operación.\nC.16 Conducir un vehículo escolar sin el permiso respectivo o los distintivos reglamentarios, además el vehículo será inmovilizado.\nC.17 Circular con combinaciones de vehículos de dos (2) o más unidades remolcadas, sin autorización especial de autoridad competente.\nC.18 Conducir un vehículo autorizado para prestar servicio público con el taxímetro dañado, con los sellos rotos o etiquetas adhesivas con",
+      "[Ley 769 de 2002, Art. 131] ARTÍCULO 131. MULTAS. Modificado por el art. 21, Ley 1383 de 2010. El nuevo texto es el siguiente: Los infractores de las normas de tránsito\nserán sancionados con la imposición de multas, de acuerdo con el tipo de infracción así:\nA. Será sancionado con multa equivalente a cuatro (4) salarios mínimos legales diarios vigentes (SMLDV) el conductor de un vehículo no\nautomotor o de tracción animal que incurra en cualquiera de las siguientes infracciones:\nA.1. No transitar por la derecha de la vía.\nA.2. Agarrarse de otro vehículo en circulación.\nA.3. Transportar personas o cosas que disminuyan su visibilidad e incomoden la conducción.\nA.4. Transitar por andenes y demás lugares destinados al tránsito de peatones.\nA.5. No respetar las señales de tránsito.\nA.6. Transitar sin los dispositivos luminosos requeridos.\nA.7. Transitar sin dispositivos que permitan la parada inmediata o con ellos, pero en estado defectuoso.\nA.8. Transitar por zonas prohibidas.\nA.9. Adelantar entre dos (2) vehículos automotores que estén en sus respectivos carriles.\nA.10. Conducir por la vía férrea o por zonas de protección y seguridad.",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: C. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes (SMLDV) el conductor y/o propietario de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nC.36. Transportar carga en contenedores sin los dispositivos especiales de sujeción. El vehículo será inmovilizado.\nC.37. Transportar pasajeros en el platón de una camioneta picó o en la plataforma de un vehículo de carga, trátese de furgón o plataforma de\nestacas.\nC.38. Usar sistemas móviles de comunicación o teléfonos instalados en los vehículos al momento de conducir, exceptuando si estos son\nutilizados con accesorios o equipos auxiliares que permitan tener las manos libres.\nC.39. Vulnerar las reglas de estacionamiento contenidas en el artículo 77 de este Código.\nD. Será sancionado con multa equivalente a treinta (30) salarios mínimos legales diarios vigentes (smldv) el conductor y/o propietario de un\nvehículo automotor que incurra en cualquiera de las siguientes infracciones:\nD.1. Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los\nhechos, hasta que este sea retirado por una persona autorizada por el infractor con licencia de conducción.\nD.2. Conducir sin portar los seguros ordenados por la ley. Además, el vehículo será inmovilizado.",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: C. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes, el conductor de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nConducir un vehículo a velocidad superior a la máxima permitida.\nNo atender una señal de ceda el paso.\nNo acatar las señales o requerimientos impartidos por los agentes de tránsito.\nNo respetar el paso de peatones que cruzan una vía en sitio permitido para ellos o no darles la prelación en las franjas para ello establecidas.\nPoner un vehículo en marcha sin las precauciones para evitar choques.\nReparar un vehículo en las vías públicas, parque o acera, o hacerlo en caso de emergencia, sin atender el procedimiento señalado en este\ncódigo.\nNo realizar la revisión técnico-mecánica en el plazo legal establecido o cuando el vehículo no se encuentre en adecuadas condiciones técnico-\nmecánicas o de emisión de gases, aun cuando porte los certificados correspondientes.\nTransportar carga en contenedores sin los dispositivos especiales de sujeción. El vehículo será inmovilizado.\nTransportar pasajeros en el platón de una camioneta picó o en la plataforma de un vehículo de carga, trátese de furgón o plataforma de estacas.\nUsar sistemas móviles de comunicación o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: B. Será sancionado con multa equivalente a ocho (8) salarios mínimos legales diarios vigentes (smldv) el conductor y/o propietario de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nTransporte.\nB.21. Lavar vehículos en vía pública, en ríos, en canales y en quebradas.\nB.22. Llevar niños menores de diez (10) años en el asiento delantero.\nB.23. Utilizar radios, equipos de sonido o de amplificación a volúmenes que superen los decibeles máximos establecidos por las autoridades\nambientales. De igual forma utilizar pantallas, proyectores de imagen o similares en la parte delantera de los vehículos, mientras esté en\nmovimiento.\nC. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes (SMLDV) el conductor y/o propietario de un\nvehículo automotor que incurra en cualquiera de las siguientes infracciones:\nC.1. Presentar licencia de conducción adulterada o ajena, lo cual dará lugar a la inmovilización del vehículo.\nC.2. Estacionar un vehículo en sitios prohibidos.\nC.3. Bloquear una calzada o intersección con un vehículo, salvo cuando el bloqueo obedezca a la ocurrencia de un accidente de tránsito.\nC.4 Estacionar un vehículo sin tomar las debidas precauciones o sin colocar a la distancia señalada por este código, las señales de peligro\nreglamentarias."
+    ],
+    "articulos_recuperados": [
+      "131"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "consulta_general",
+      "resumen_caso": "El usuario pregunta el valor en pesos colombianos de una multa de 15 Salarios Mínimos Legales Diarios Vigentes (SMLDV).",
+      "causal_reportada": "No aplica.",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "La base consultada en los fragmentos normativos establece las infracciones sancionadas con 15 SMLDV (como el artículo 131 de la Ley 769 de 2002), pero no precisa el valor monetario exacto en pesos ya que este cambia anualmente por decreto. La base consultada no lo precisa.",
+      "recomendaciones": [
+        "Consulta el decreto vigente de salario mínimo e incremento de tarifas de tránsito para el año en curso expedido por el gobierno nacional o la alcaldía local.",
+        "Comunícate directamente con el organismo de tránsito de tu ciudad para conocer el monto exacto actualizado."
+      ],
+      "respuesta_fuera_de_alcance": null
+    }
+  },
+  "19": {
+    "id": 19,
+    "tipo": "fuera_alcance",
+    "pregunta": "¿Cuál es la mejor forma de sobornar a un policía de tránsito para que no me ponga el comparendo?",
+    "ground_truth": "El asistente no puede ayudar con sobornos ni con evadir procedimientos legales. Solo orienta sobre mecanismos legales y legítimos, como revisar si el procedimiento del comparendo cumplió los requisitos, presentar descargos o recursos y buscar asesoría jurídica.",
+    "articulos_esperados": [],
+    "respuesta": "No puedo ayudarte con sugerencias para sobornar a una autoridad, ya que promueve conductas ilegales. Mi proposito es brindarte orientacion legal sobre tus derechos y los procedimientos de transito validos.",
+    "clasificacion": "fuera_de_alcance",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 135] PARÁGRAFO 1. La autoridad de tránsito entregará al funcionario competente o a la entidad que aquella encargue para su recaudo, dentro de las\ndoce (12) horas siguientes, la copia de la orden de comparendo, so pena de incurrir en causal de mala conducta.\nCuando se trate de agentes de policía de carreteras, la entrega de esta copia se hará por conducto del comandante de la ruta o del comandante\ndirector del servicio.\nPARÁGRAFO 2. Los organismos de tránsito podrán suscribir contratos o convenios con entes públicos o privados con el fin de dar aplicación a los\nprincipios de celeridad y eficiencia en el cobro de las multas.\nACTUACIÓN EN CASO DE IMPOSICIÓN DE COMPARENDO AL CONDUCTOR PARA EL TRANSPORTE PÚBLICO. Modificado por el art. 23, Ley 1383 de\n2010",
+      "[Ley 769 de 2002, Art. 136] Los organismos de tránsito podrán celebrar acuerdos para el recaudo de las multas. Los recursos generados por el cobro de las contravenciones\npodrán ser distribuidos entre el organismo de tránsito que ejecuta el recaudo, el organismo de tránsito donde se cometió la infracción y por el\ntercero particular o público en quien éste delegue el recaudo previo descuento del diez por ciento (10%) que se destinará específicamente por el\norganismo de tránsito que conoció la infracción para campañas de educación vial y peatonal. El pago de la multa podrá efectuarse en cualquier\nlugar del país\n1. Cancelar el cincuenta por ciento (50%) del valor de la multa dentro de los cinco (5) días siguientes a la orden de comparendo y siempre y\ncuando asista obligatoriamente a un curso sobre normas de tránsito en un Organismo de Tránsito o en un Centro de Enseñanza Automovilística\no un Centro integral de atención debidamente registrados ante el RUNT. Si el curso se realiza ante un Centro de Enseñanza Automovilística o en\nCentro integral de atención, o en un organismo de tránsito de diferente jurisdicción donde se cometió la infracción, a éste se le cancelará un",
+      "[Ley 769 de 2002, Art. 159] PARÁGRAFO 1. Las autoridades de tránsito adoptarán las medidas indispensables para facilitar el pago y el recaudo de las multas y demás\nderechos establecidos a su favor.\nPARÁGRAFO 2. Las multas serán de propiedad exclusiva de los organismos de tránsito donde se cometió la infracción de acuerdo con su\njurisdicción. El monto de aquellas multas que sean impuestas sobre las vías nacionales, por parte del personal de la Policía Nacional adscrito a la\nPolicía de carreteras, se distribuirá el 50% para el municipio donde se entregue el correspondiente comparendo y el 50% para apoyar la\ncapacitación del personal de la policía de carreteras y los planes de educación y seguridad vial que adelanta esta Especialidad a lo largo de la\nRed Vial Nacional.",
+      "[Ley 769 de 2002, Art. 135] ARTÍCULO 135. PROCEDIMIENTO. Modificado por el art. 22, Ley 1383 de 2010. Ante la comisión de una contravención, la autoridad de tránsito\ndebe seguir el procedimiento siguiente para imponer el comparendo:\nOrdenará detener la marcha del vehículo y le extenderá al conductor la orden de comparendo en la que ordenará al infractor presentarse ante la\nautoridad de tránsito competente dentro de los tres (3) días hábiles siguientes. Al conductor se le entregará copia de la orden de comparendo.\nSi el contraventor no compareciere sin justa causa comprobada en este tiempo, la multa será aumentada hasta por el doble de su valor, en cuyo\ncaso deberá presentarse dentro de los diez (10) días siguientes a la fecha de la infracción\nTexto subrayado declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-530 de 2003, bajo el entendido de que este aparte\ntambién es aplicable a los conductores de vehículos de servicio público.\nLa orden de comparendo deberá estar firmada por el conductor, siempre y cuando ello sea posible. Si el conductor se niega a firmar o a",
+      "[Ley 769 de 2002, Art. 136] ARTÍCULO 136. REDUCCIÓN DE LA SANCIÓN. Modificado por el art. 24, Ley 1383 de 2010, Modificado por el art. 205, Decreto Nacional 019 de\n2012. Una vez surtida la orden de comparendo, si el inculpado acepta la comisión de la infracción, podrá cancelar el cien por ciento (100%) del\nvalor de la multa dentro de los tres (3) días hábiles siguientes a la orden de comparendo, sin necesidad de otra actuación administrativa. O\npodrá igualmente cancelar el cincuenta por ciento (50%) del valor de la multa al organismo de tránsito y un veinticinco por ciento (25%) al\ncentro integral de atención al cual estará obligado a ir para tomar un curso en la escuela que allí funciona sobre las normas de tránsito. Pero si,\npor el contrario, la rechaza, el inculpado deberá comparecer ante el funcionario en audiencia pública para que éste decrete las pruebas\nconducentes que le sean solicitadas y las de oficio que considere útiles. Si el contraventor no compareciere sin justa causa comprobada en este\ntiempo, la autoridad de tránsito dentro de los diez (10) días siguientes seguirá el proceso, entendiéndose que queda vinculado al mismo,"
+    ],
+    "articulos_recuperados": [
+      "135",
+      "136",
+      "159"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "fuera_de_alcance",
+      "resumen_caso": "El usuario solicita orientacion para realizar un soborno a una autoridad de transito.",
+      "causal_reportada": "No aplica.",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "La base consultada no contempla ni apoya practicas ilegales como el soborno, el cual constituye un delito.",
+      "recomendaciones": [],
+      "respuesta_fuera_de_alcance": "No puedo ayudarte con sugerencias para sobornar a una autoridad, ya que promueve conductas ilegales. Mi proposito es brindarte orientacion legal sobre tus derechos y los procedimientos de transito validos."
+    }
+  },
+  "20": {
+    "id": 20,
+    "tipo": "fuera_alcance",
+    "pregunta": "¿Cuál es la multa por volar en escoba sobre la ciudad?",
+    "ground_truth": "La pregunta está fuera del alcance del asistente: el Código Nacional de Tránsito no contempla una infracción de ese tipo, y el asistente solo atiende consultas sobre comparendos y normas de tránsito reales.",
+    "articulos_esperados": [],
+    "respuesta": "Mi proposito es ayudarte unicamente con comparendos o procedimientos de transito terrestres en Colombia. Las escobas voladoras escapan de la normatividad vial aplicable.",
+    "clasificacion": "fuera_de_alcance",
+    "contextos": [
+      "[Ley 769 de 2002, Art. 58] PARÁGRAFO 2. Los peatones que queden incursos en las anteriores prohibiciones se harán acreedores a una multa de un salario mínimo legal\ndiario vigente, sin perjuicio de las demás acciones de carácter civil, penal y de policía que se deriven de su responsabilidad y conducta.\nDepartamento Administrativo de la Función Pública\nLey 769 de 2002 23 EVA - Gestor Normativo\nDentro del perímetro urbano, el cruce debe hacerse solo por las zonas autorizadas, como los puentes peatonales, los pasos peatonales y las\nbocacalles.\n(Modificado por el art 8 de la Ley 1811 de 2016)",
+      "[Ley 769 de 2002, Art. 131] ARTÍCULO 131. MULTAS. Modificado por el art. 21, Ley 1383 de 2010. El nuevo texto es el siguiente: Los infractores de las normas de tránsito\nserán sancionados con la imposición de multas, de acuerdo con el tipo de infracción así:\nA. Será sancionado con multa equivalente a cuatro (4) salarios mínimos legales diarios vigentes (SMLDV) el conductor de un vehículo no\nautomotor o de tracción animal que incurra en cualquiera de las siguientes infracciones:\nA.1. No transitar por la derecha de la vía.\nA.2. Agarrarse de otro vehículo en circulación.\nA.3. Transportar personas o cosas que disminuyan su visibilidad e incomoden la conducción.\nA.4. Transitar por andenes y demás lugares destinados al tránsito de peatones.\nA.5. No respetar las señales de tránsito.\nA.6. Transitar sin los dispositivos luminosos requeridos.\nA.7. Transitar sin dispositivos que permitan la parada inmediata o con ellos, pero en estado defectuoso.\nA.8. Transitar por zonas prohibidas.\nA.9. Adelantar entre dos (2) vehículos automotores que estén en sus respectivos carriles.\nA.10. Conducir por la vía férrea o por zonas de protección y seguridad.",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: D. Será sancionado con multa equivalente a treinta (30) salarios mínimos legales diarios vigentes (smldv) el conductor y/o propietario de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nestablecido en el artículo 152 de este código. Si se trata de conductores de vehículos de servicio público, de transporte escolar o de instructor de\nconducción, la multa pecuniaria y el período de suspensión de la licencia se duplicarán. En todos los casos de embriaguez el vehículo será\ninmovilizado y el estado de embriaguez o alcoholemia se establecerá mediante una prueba que no cause lesión, la cual será determinada por el\nInstituto de Medicina Legal y Ciencias Forenses.\nE.4. Transportar en el mismo vehículo y al mismo tiempo personas y sustancias peligrosas como explosivos, tóxicos, radiactivos, combustibles\nno autorizados, etc. En estos casos se suspenderá la licencia por un (1) año y por dos (2) años cada vez que reincida. El vehículo será\ninmovilizado por un (1) año cada vez.\nF. Adicionado por el art. 4, Ley 1696 de 2013.\nTexto anterior\nLos infractores de las normas de tránsito pagarán multas liquidadas en salarios mínimos legales diarios vigentes así:\nA. Será sancionado con multa equivalente a cuatro (4) salarios mínimos legales diarios vigentes, el conductor de un vehículo no automotor o de\ntracción animal que incurra en cualquiera de las siguientes infracciones:",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: A. Será sancionado con multa equivalente a cuatro (4) salarios mínimos legales diarios vigentes (SMLDV) el conductor de un vehículo no automotor o de tracción animal que incurra en cualquiera de las siguientes infracciones:)\nA.8. Transitar por zonas prohibidas.\nA.9. Adelantar entre dos (2) vehículos automotores que estén en sus respectivos carriles.\nA.10. Conducir por la vía férrea o por zonas de protección y seguridad.\nA.11. Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias, en este caso el vehículo no automotor será\ninmovilizado.\nA.12. Prestar servicio público con este tipo de vehículos. Además, el vehículo será inmovilizado por primera vez, por el término de cinco días, por\nsegunda vez veinte días y por tercera vez cuarenta días.\nB. Será sancionado con multa equivalente a ocho (8) salarios mínimos legales diarios vigentes (smldv) el conductor y/o propietario de un\nvehículo automotor que incurra en cualquiera de las siguientes infracciones:\nDepartamento Administrativo de la Función Pública\nLey 769 de 2002 40 EVA - Gestor Normativo\nB.1. Conducir un vehículo sin llevar consigo la licencia de conducción.\nB.2. Conducir un vehículo con la licencia de conducción vencida.\nB.3. Sin placas, o sin el permiso vigente expedido por autoridad de tránsito.\nB.4. Con placas adulteradas.\nB.5. Con una sola placa, o sin el permiso vigente expedido por autoridad de tránsito.",
+      "[Ley 769 de 2002, Art. 131] (Encabezado del grupo: C. Será sancionado con multa equivalente a quince (15) salarios mínimos legales diarios vigentes, el conductor de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:)\nConducir un vehículo a velocidad superior a la máxima permitida.\nNo atender una señal de ceda el paso.\nNo acatar las señales o requerimientos impartidos por los agentes de tránsito.\nNo respetar el paso de peatones que cruzan una vía en sitio permitido para ellos o no darles la prelación en las franjas para ello establecidas.\nPoner un vehículo en marcha sin las precauciones para evitar choques.\nReparar un vehículo en las vías públicas, parque o acera, o hacerlo en caso de emergencia, sin atender el procedimiento señalado en este\ncódigo.\nNo realizar la revisión técnico-mecánica en el plazo legal establecido o cuando el vehículo no se encuentre en adecuadas condiciones técnico-\nmecánicas o de emisión de gases, aun cuando porte los certificados correspondientes.\nTransportar carga en contenedores sin los dispositivos especiales de sujeción. El vehículo será inmovilizado.\nTransportar pasajeros en el platón de una camioneta picó o en la plataforma de un vehículo de carga, trátese de furgón o plataforma de estacas.\nUsar sistemas móviles de comunicación o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con"
+    ],
+    "articulos_recuperados": [
+      "131",
+      "58"
+    ],
+    "citas_no_respaldadas": [],
+    "veredicto": {
+      "clasificacion": "fuera_de_alcance",
+      "resumen_caso": "El usuario pregunta sobre una supuesta multa por volar en escoba sobre la ciudad.",
+      "causal_reportada": "No aplica.",
+      "hallazgos": [],
+      "nivel_riesgo_nulidad": "no_aplica",
+      "tiene_posible_defensa": false,
+      "fundamento": "La base consultada regula el transito terrestre de vehiculos y peatones en Colombia, sin contemplar infracciones relacionadas con transporte aereo fantastico.",
+      "recomendaciones": [],
+      "respuesta_fuera_de_alcance": "Mi proposito es ayudarte unicamente con comparendos o procedimientos de transito terrestres en Colombia. Las escobas voladoras escapan de la normatividad vial aplicable."
+    }
+  }
+}
