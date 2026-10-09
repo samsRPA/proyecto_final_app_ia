@@ -269,7 +269,10 @@ Variables de entorno (ver `.env.example`): `GEMINI_API_KEY` (obligatoria),
 
 - **Historial real** en `st.session_state`: el asistente reenvía los turnos
   previos al LLM, así que las preguntas de seguimiento ("¿y si no me dieron
-  copia?") entienden la conversación. Botón *Nueva conversación*.
+  copia?") entienden la conversación. Botón *Nueva conversación*. La interfaz lo
+  hace visible: un contador lateral ("Recuerdo N mensajes", con tope de 6, la
+  ventana que recibe el modelo) y un aviso bajo cada respuesta de seguimiento
+  ("↩️ Seguimiento: esta respuesta tiene en cuenta N mensajes anteriores").
 - **Fuentes bajo cada respuesta:** documento, artículo, ubicación (título/capítulo),
   similitud y el fragmento recuperado, en un panel desplegable. Son los
   fragmentos que realmente recibió el modelo, no lo que el modelo dice citar.

@@ -357,7 +357,7 @@ def construir() -> None:
     s += [P("5. Interfaz de chat desplegada", "h1"),
           P(f"La interfaz está construida con <b>Streamlit</b> y desplegada en Streamlit Community Cloud: "
             f'<link href="{URL_APP}" color="blue">{URL_APP}</link>. Las credenciales se gestionan como <i>secrets</i> de la plataforma; nunca se incluyen en el repositorio.')]
-    s += bullets(["<b>Conversación real:</b> el historial se conserva en <i>st.session_state</i> y se reenvía al LLM, de modo que las preguntas de seguimiento entienden los turnos anteriores.",
+    s += bullets(["<b>Conversación real:</b> el historial se conserva en <i>st.session_state</i> y se reenvía al LLM, de modo que las preguntas de seguimiento entienden los turnos anteriores. La interfaz lo hace visible con un contador lateral ('Recuerdo N mensajes', tope de 6) y un aviso bajo cada respuesta de seguimiento ('Seguimiento: esta respuesta tiene en cuenta N mensajes anteriores').",
                   "<b>Fuentes:</b> bajo cada respuesta se muestran documento, artículo, ubicación (título y capítulo), similitud y el fragmento recuperado. Son los fragmentos que realmente recibió el modelo.",
                   "<b>Fuera de alcance:</b> se indica sin inventar y sin mostrar fuentes irrelevantes; si el modelo cita un artículo que no estaba en el contexto, la interfaz lo advierte.",
                   "<b>Protección de cuota:</b> los mensajes se limitan a 1500 caracteres."])

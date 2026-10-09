@@ -150,6 +150,7 @@ def main() -> None:
             st.session_state.asistente.reiniciar()
             st.session_state.mensajes = []
             st.rerun()
+        ranura_memoria = st.empty()  # se llena al final, ya con el turno actual
         st.divider()
         st.markdown("**Prueba con:**")
         for i, ejemplo in enumerate(EJEMPLOS):
@@ -158,6 +159,30 @@ def main() -> None:
         st.divider()
         st.caption("Orientación informativa; no reemplaza la asesoría de un abogado.")
 
+    chat()
+    _actualizar_memoria(ranura_memoria)
+
+
+def _turnos_previos() -> int:
+    """Mensajes del usuario ya enviados en esta conversacion."""
+    return sum(m["rol"] == "user" for m in st.session_state.mensajes)
+
+
+def _actualizar_memoria(ranura) -> None:
+    """Indicador lateral: cuantos mensajes recuerda el asistente (tope = ventana enviada al LLM)."""
+    n = min(_turnos_previos(), cargar_recursos()[0].max_turnos_historial)
+    if n:
+        ranura.caption(f"💬 Recuerdo {n} mensaje{'s' if n != 1 else ''} de esta conversación")
+
+
+def mostrar_seguimiento(previos: int) -> None:
+    """Aviso bajo la respuesta cuando se apoya en mensajes anteriores."""
+    if previos:
+        st.caption(f"↩️ Seguimiento: esta respuesta tiene en cuenta {previos} mensaje"
+                   f"{'s' if previos != 1 else ''} anterior{'es' if previos != 1 else ''} de la conversación.")
+
+
+def chat() -> None:
     if not st.session_state.mensajes:
         st.chat_message("assistant").markdown(
             "Hola 👋 Soy MultaClara. Cuéntame qué ocurrió con tu comparendo "
@@ -170,6 +195,7 @@ def main() -> None:
                 st.markdown(m["texto"])
             else:
                 mostrar_respuesta(m["respuesta"])
+                mostrar_seguimiento(m.get("previos", 0))
 
     prompt = st.chat_input("Escribe tu caso o tu pregunta…") or st.session_state.pop("pendiente", None)
     if not prompt:
@@ -179,6 +205,7 @@ def main() -> None:
         st.warning(f"Tu mensaje es muy largo ({len(prompt)} caracteres). Resúmelo a menos de {MAX_CARACTERES}.")
         return
 
+    previos = min(_turnos_previos(), cargar_recursos()[0].max_turnos_historial)
     st.session_state.mensajes.append({"rol": "user", "texto": prompt})
     with st.chat_message("user"):
         st.markdown(prompt)
@@ -191,7 +218,8 @@ def main() -> None:
             st.error(f"No pude responder en este momento: {e}")
             return
         mostrar_respuesta(respuesta)
-    st.session_state.mensajes.append({"rol": "assistant", "respuesta": respuesta})
+        mostrar_seguimiento(previos)
+    st.session_state.mensajes.append({"rol": "assistant", "respuesta": respuesta, "previos": previos})
 
 
 main()
