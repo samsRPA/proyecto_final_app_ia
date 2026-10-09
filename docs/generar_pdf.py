@@ -187,7 +187,7 @@ def imagen(ruta: Path, ancho_cm: float, alto_max_cm: float = 12.5):
     return Image(str(ruta), width=w, height=h)
 
 
-def captura(nombre: str, pie: str, ancho_cm: float = 15.5):
+def captura(nombre: str, pie: str, ancho_cm: float = 17.0):
     ruta = CAPT / nombre
     if ruta.exists():
         cuerpo = imagen(ruta, ancho_cm)
@@ -375,19 +375,18 @@ def construir() -> None:
         "La cuota gratuita de la API es compartida por todos los visitantes de la aplicación pública."])
 
     # ---- 7. Enlaces + Anexo
-    s += [P("7. Enlaces", "h1"),
-          P(f'Aplicación: <link href="{URL_APP}" color="blue">{URL_APP}</link><br/>Repositorio: <link href="{URL_REPO}" color="blue">{URL_REPO}</link>')]
-    s.append(PageBreak())
+    s.append(KeepTogether([P("7. Enlaces", "h1"),
+          P(f'Aplicación: <link href="{URL_APP}" color="blue">{URL_APP}</link><br/>Repositorio: <link href="{URL_REPO}" color="blue">{URL_REPO}</link>')]))
     s.append(P("Anexo A. Puntajes de Ragas por pregunta", "h1"))
     f2 = lambda v: "n/d" if v is None else f"{v:.2f}"
     anexo = [["#", "Tipo", "Pregunta", "Baseline (F / R / P / Rc)", "Con encabezado (F / R / P / Rc)"]]
     for k, r in base_r.items():
         ga, gb = base_g[k], cab_g[k]
-        anexo.append([k, r["tipo"].replace("_", " "), esc(recorte(r["pregunta"], 70)),
+        anexo.append([k, r["tipo"].replace("_", " "), esc(recorte(r["pregunta"], 46)),
                       " / ".join(f2(ga[m]) for m in METRICAS), " / ".join(f2(gb[m]) for m in METRICAS)])
-    s += [tabla(anexo, [0.7 * cm, 2.3 * cm, 6.2 * cm, 3.7 * cm, 3.6 * cm]),
-          P("F = faithfulness, R = answer_relevancy, P = context_precision, Rc = context_recall. Las preguntas de control (17–20) se "
-            "interpretan por su comportamiento de rechazo, no por estas métricas.", "c")]
+    s += [P("F = faithfulness, R = answer_relevancy, P = context_precision, Rc = context_recall. Las preguntas de control (17–20) se "
+            "interpretan por su comportamiento de rechazo, no por estas métricas.", "c"),
+          tabla(anexo, [0.7 * cm, 2.2 * cm, 6.9 * cm, 3.5 * cm, 3.5 * cm])]
 
     SimpleDocTemplate(str(SALIDA), pagesize=letter, leftMargin=2 * cm, rightMargin=2 * cm, topMargin=2 * cm, bottomMargin=2 * cm,
                       title="MultaClara - Avance 2", author=AUTORES).build(s, onFirstPage=pie_pagina, onLaterPages=pie_pagina)
