@@ -1,0 +1,6 @@
+# Binarios: sin conversion de saltos de linea (autocrlf corrompia los PDF)
+*.pdf binary
+*.png binary
+*.jpg binary
+*.sqlite3 binary
+*.bin binary
