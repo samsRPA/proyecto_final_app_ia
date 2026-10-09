@@ -7,6 +7,13 @@
 **🔗 Aplicación desplegada:** https://multaclara.streamlit.app/
 **📦 Repositorio:** https://github.com/samsRPA/proyecto_final_app_ia
 
+> **Nota sobre el despliegue:** la aplicación se despliega desde el fork
+> [`ChrlyDev/proyecto_final_app_ia`](https://github.com/ChrlyDev/proyecto_final_app_ia),
+> que contiene exactamente el mismo código que este repositorio (se mantienen
+> sincronizados). Streamlit Community Cloud exige ser *administrador* del
+> repositorio para desplegar, y en un repositorio personal los colaboradores no
+> pueden serlo; por eso se usó el fork. Este repositorio es el oficial de la entrega.
+
 ## 1. La idea
 
 Cuando un agente de tránsito detiene a alguien, la persona rara vez sabe si el
